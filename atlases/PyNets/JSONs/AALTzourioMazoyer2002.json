@@ -1,0 +1,470 @@
+{
+    "0": {
+        "label": "empty",
+        "size": "717223"
+    },
+    "1": {
+        "label": "Precentral_L",
+        "size": "3525"
+    },
+    "10": {
+        "label": "Frontal_Mid_Orb_R",
+        "size": "1014"
+    },
+    "100": {
+        "label": "Cerebelum_6_R",
+        "size": "1794"
+    },
+    "101": {
+        "label": "Cerebelum_7b_L",
+        "size": "584"
+    },
+    "102": {
+        "label": "Cerebelum_7b_R",
+        "size": "533"
+    },
+    "103": {
+        "label": "Cerebelum_8_L",
+        "size": "1886"
+    },
+    "104": {
+        "label": "Cerebelum_8_R",
+        "size": "2307"
+    },
+    "105": {
+        "label": "Cerebelum_9_L",
+        "size": "868"
+    },
+    "106": {
+        "label": "Cerebelum_9_R",
+        "size": "808"
+    },
+    "107": {
+        "label": "Cerebelum_10_L",
+        "size": "143"
+    },
+    "108": {
+        "label": "Cerebelum_10_R",
+        "size": "158"
+    },
+    "109": {
+        "label": "Vermis_1_2",
+        "size": "52"
+    },
+    "11": {
+        "label": "Frontal_Inf_Oper_L",
+        "size": "1037"
+    },
+    "110": {
+        "label": "Vermis_3",
+        "size": "227"
+    },
+    "111": {
+        "label": "Vermis_4_5",
+        "size": "664"
+    },
+    "112": {
+        "label": "Vermis_6",
+        "size": "370"
+    },
+    "113": {
+        "label": "Vermis_7",
+        "size": "193"
+    },
+    "114": {
+        "label": "Vermis_8",
+        "size": "242"
+    },
+    "115": {
+        "label": "Vermis_9",
+        "size": "173"
+    },
+    "116": {
+        "label": "Vermis_10",
+        "size": "111"
+    },
+    "12": {
+        "label": "Frontal_Inf_Oper_R",
+        "size": "1398"
+    },
+    "13": {
+        "label": "Frontal_Inf_Tri_L",
+        "size": "2528"
+    },
+    "14": {
+        "label": "Frontal_Inf_Tri_R",
+        "size": "2150"
+    },
+    "15": {
+        "label": "Frontal_Inf_Orb_L",
+        "size": "1689"
+    },
+    "16": {
+        "label": "Frontal_Inf_Orb_R",
+        "size": "1706"
+    },
+    "17": {
+        "label": "Rolandic_Oper_L",
+        "size": "989"
+    },
+    "18": {
+        "label": "Rolandic_Oper_R",
+        "size": "1330"
+    },
+    "19": {
+        "label": "Supp_Motor_Area_L",
+        "size": "2146"
+    },
+    "2": {
+        "label": "Precentral_R",
+        "size": "3380"
+    },
+    "20": {
+        "label": "Supp_Motor_Area_R",
+        "size": "2370"
+    },
+    "21": {
+        "label": "Olfactory_L",
+        "size": "279"
+    },
+    "22": {
+        "label": "Olfactory_R",
+        "size": "288"
+    },
+    "23": {
+        "label": "Frontal_Sup_Medial_L",
+        "size": "2991"
+    },
+    "24": {
+        "label": "Frontal_Sup_Medial_R",
+        "size": "2133"
+    },
+    "25": {
+        "label": "Frontal_Med_Orb_L",
+        "size": "718"
+    },
+    "26": {
+        "label": "Frontal_Med_Orb_R",
+        "size": "855"
+    },
+    "27": {
+        "label": "Rectus_L",
+        "size": "851"
+    },
+    "28": {
+        "label": "Rectus_R",
+        "size": "744"
+    },
+    "29": {
+        "label": "Insula_L",
+        "size": "1857"
+    },
+    "3": {
+        "label": "Frontal_Sup_L",
+        "size": "3598"
+    },
+    "30": {
+        "label": "Insula_R",
+        "size": "1769"
+    },
+    "31": {
+        "label": "Cingulum_Ant_L",
+        "size": "1399"
+    },
+    "32": {
+        "label": "Cingulum_Ant_R",
+        "size": "1312"
+    },
+    "33": {
+        "label": "Cingulum_Mid_L",
+        "size": "1940"
+    },
+    "34": {
+        "label": "Cingulum_Mid_R",
+        "size": "2202"
+    },
+    "35": {
+        "label": "Cingulum_Post_L",
+        "size": "462"
+    },
+    "36": {
+        "label": "Cingulum_Post_R",
+        "size": "334"
+    },
+    "37": {
+        "label": "Hippocampus_L",
+        "size": "931"
+    },
+    "38": {
+        "label": "Hippocampus_R",
+        "size": "945"
+    },
+    "39": {
+        "label": "ParaHippocampal_L",
+        "size": "977"
+    },
+    "4": {
+        "label": "Frontal_Sup_R",
+        "size": "4055"
+    },
+    "40": {
+        "label": "ParaHippocampal_R",
+        "size": "1131"
+    },
+    "41": {
+        "label": "Amygdala_L",
+        "size": "219"
+    },
+    "42": {
+        "label": "Amygdala_R",
+        "size": "247"
+    },
+    "43": {
+        "label": "Calcarine_L",
+        "size": "2257"
+    },
+    "44": {
+        "label": "Calcarine_R",
+        "size": "1860"
+    },
+    "45": {
+        "label": "Cuneus_L",
+        "size": "1525"
+    },
+    "46": {
+        "label": "Cuneus_R",
+        "size": "1423"
+    },
+    "47": {
+        "label": "Lingual_L",
+        "size": "2094"
+    },
+    "48": {
+        "label": "Lingual_R",
+        "size": "2299"
+    },
+    "49": {
+        "label": "Occipital_Sup_L",
+        "size": "1365"
+    },
+    "5": {
+        "label": "Frontal_Sup_Orb_L",
+        "size": "962"
+    },
+    "50": {
+        "label": "Occipital_Sup_R",
+        "size": "1412"
+    },
+    "51": {
+        "label": "Occipital_Mid_L",
+        "size": "3269"
+    },
+    "52": {
+        "label": "Occipital_Mid_R",
+        "size": "2097"
+    },
+    "53": {
+        "label": "Occipital_Inf_L",
+        "size": "940"
+    },
+    "54": {
+        "label": "Occipital_Inf_R",
+        "size": "988"
+    },
+    "55": {
+        "label": "Fusiform_L",
+        "size": "2309"
+    },
+    "56": {
+        "label": "Fusiform_R",
+        "size": "2517"
+    },
+    "57": {
+        "label": "Postcentral_L",
+        "size": "3891"
+    },
+    "58": {
+        "label": "Postcentral_R",
+        "size": "3822"
+    },
+    "59": {
+        "label": "Parietal_Sup_L",
+        "size": "2064"
+    },
+    "6": {
+        "label": "Frontal_Sup_Orb_R",
+        "size": "996"
+    },
+    "60": {
+        "label": "Parietal_Sup_R",
+        "size": "2221"
+    },
+    "61": {
+        "label": "Parietal_Inf_L",
+        "size": "2446"
+    },
+    "62": {
+        "label": "Parietal_Inf_R",
+        "size": "1344"
+    },
+    "63": {
+        "label": "SupraMarginal_L",
+        "size": "1255"
+    },
+    "64": {
+        "label": "SupraMarginal_R",
+        "size": "1973"
+    },
+    "65": {
+        "label": "Angular_L",
+        "size": "1172"
+    },
+    "66": {
+        "label": "Angular_R",
+        "size": "1751"
+    },
+    "67": {
+        "label": "Precuneus_L",
+        "size": "3527"
+    },
+    "68": {
+        "label": "Precuneus_R",
+        "size": "3264"
+    },
+    "69": {
+        "label": "Paracentral_Lobule_L",
+        "size": "1348"
+    },
+    "7": {
+        "label": "Frontal_Mid_L",
+        "size": "4862"
+    },
+    "70": {
+        "label": "Paracentral_Lobule_R",
+        "size": "835"
+    },
+    "71": {
+        "label": "Caudate_L",
+        "size": "961"
+    },
+    "72": {
+        "label": "Caudate_R",
+        "size": "993"
+    },
+    "73": {
+        "label": "Putamen_L",
+        "size": "1008"
+    },
+    "74": {
+        "label": "Putamen_R",
+        "size": "1063"
+    },
+    "75": {
+        "label": "Pallidum_L",
+        "size": "292"
+    },
+    "76": {
+        "label": "Pallidum_R",
+        "size": "279"
+    },
+    "77": {
+        "label": "Thalamus_L",
+        "size": "1099"
+    },
+    "78": {
+        "label": "Thalamus_R",
+        "size": "1056"
+    },
+    "79": {
+        "label": "Heschl_L",
+        "size": "224"
+    },
+    "8": {
+        "label": "Frontal_Mid_R",
+        "size": "5103"
+    },
+    "80": {
+        "label": "Heschl_R",
+        "size": "248"
+    },
+    "81": {
+        "label": "Temporal_Sup_L",
+        "size": "2295"
+    },
+    "82": {
+        "label": "Temporal_Sup_R",
+        "size": "3140"
+    },
+    "83": {
+        "label": "Temporal_Pole_Sup_L",
+        "size": "1284"
+    },
+    "84": {
+        "label": "Temporal_Pole_Sup_R",
+        "size": "1337"
+    },
+    "85": {
+        "label": "Temporal_Mid_L",
+        "size": "4941"
+    },
+    "86": {
+        "label": "Temporal_Mid_R",
+        "size": "4408"
+    },
+    "87": {
+        "label": "Temporal_Pole_Mid_L",
+        "size": "754"
+    },
+    "88": {
+        "label": "Temporal_Pole_Mid_R",
+        "size": "1186"
+    },
+    "89": {
+        "label": "Temporal_Inf_L",
+        "size": "3199"
+    },
+    "9": {
+        "label": "Frontal_Mid_Orb_L",
+        "size": "887"
+    },
+    "90": {
+        "label": "Temporal_Inf_R",
+        "size": "3556"
+    },
+    "91": {
+        "label": "Cerebelum_Crus1_L",
+        "size": "2602"
+    },
+    "92": {
+        "label": "Cerebelum_Crus1_R",
+        "size": "2647"
+    },
+    "93": {
+        "label": "Cerebelum_Crus2_L",
+        "size": "1893"
+    },
+    "94": {
+        "label": "Cerebelum_Crus2_R",
+        "size": "2116"
+    },
+    "95": {
+        "label": "Cerebelum_3_L",
+        "size": "135"
+    },
+    "96": {
+        "label": "Cerebelum_3_R",
+        "size": "206"
+    },
+    "97": {
+        "label": "Cerebelum_4_5_L",
+        "size": "1124"
+    },
+    "98": {
+        "label": "Cerebelum_4_5_R",
+        "size": "860"
+    },
+    "99": {
+        "label": "Cerebelum_6_L",
+        "size": "1693"
+    }
+}

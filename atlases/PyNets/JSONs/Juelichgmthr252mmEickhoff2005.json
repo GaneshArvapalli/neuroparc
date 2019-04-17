@@ -1,0 +1,418 @@
+{
+    "0": {
+        "label": "empty",
+        "size": "839078"
+    },
+    "1": {
+        "label": "Anterior_intra-parietal_sulcus_hIP1_L",
+        "size": "482"
+    },
+    "10": {
+        "label": "Amygdala_laterobasal_group_R",
+        "size": "342"
+    },
+    "100": {
+        "label": "Insula_Ig1_R",
+        "size": "26"
+    },
+    "101": {
+        "label": "Insula_Ig2_L",
+        "size": "96"
+    },
+    "102": {
+        "label": "Insula_Ig2_R",
+        "size": "76"
+    },
+    "103": {
+        "label": "Mamillary_body",
+        "size": "56"
+    },
+    "11": {
+        "label": "Amygdala_superficial_group_L",
+        "size": "197"
+    },
+    "12": {
+        "label": "Amygdala_superficial_group_R",
+        "size": "192"
+    },
+    "13": {
+        "label": "Broca's_area_BA44_L",
+        "size": "1532"
+    },
+    "14": {
+        "label": "Broca's_area_BA44_R",
+        "size": "1086"
+    },
+    "15": {
+        "label": "Broca's_area_BA45_L",
+        "size": "1100"
+    },
+    "16": {
+        "label": "Broca's_area_BA45_R",
+        "size": "1291"
+    },
+    "17": {
+        "label": "Hippocampus_cornu_ammonis_L",
+        "size": "762"
+    },
+    "18": {
+        "label": "Hippocampus_cornu_ammonis_R",
+        "size": "809"
+    },
+    "19": {
+        "label": "Hippocampus_entorhinal_cortex_L",
+        "size": "636"
+    },
+    "2": {
+        "label": "Anterior_intra-parietal_sulcus_hIP1_R",
+        "size": "289"
+    },
+    "20": {
+        "label": "Hippocampus_entorhinal_cortex_R",
+        "size": "763"
+    },
+    "21": {
+        "label": "Hippocampus_dentate_gyrus_L",
+        "size": "73"
+    },
+    "22": {
+        "label": "Hippocampus_dentate_gyrus_R",
+        "size": "71"
+    },
+    "23": {
+        "label": "Hippocampus_hippocampal-amygdaloid_transition_area_L",
+        "size": "3"
+    },
+    "24": {
+        "label": "Hippocampus_hippocampal-amygdaloid_transition_area_R",
+        "size": "0"
+    },
+    "25": {
+        "label": "Hippocampus_subiculum_L",
+        "size": "536"
+    },
+    "26": {
+        "label": "Hippocampus_subiculum_R",
+        "size": "547"
+    },
+    "27": {
+        "label": "Inferior_parietal_lobule_PF_L",
+        "size": "1001"
+    },
+    "28": {
+        "label": "Inferior_parietal_lobule_PF_R",
+        "size": "915"
+    },
+    "29": {
+        "label": "Inferior_parietal_lobule_PFcm_L",
+        "size": "364"
+    },
+    "3": {
+        "label": "Anterior_intra-parietal_sulcus_hIP2_L",
+        "size": "236"
+    },
+    "30": {
+        "label": "Inferior_parietal_lobule_PFcm_R",
+        "size": "317"
+    },
+    "31": {
+        "label": "Inferior_parietal_lobule_PFm_L",
+        "size": "473"
+    },
+    "32": {
+        "label": "Inferior_parietal_lobule_PFm_R",
+        "size": "859"
+    },
+    "33": {
+        "label": "Inferior_parietal_lobule_PFop_L",
+        "size": "278"
+    },
+    "34": {
+        "label": "Inferior_parietal_lobule_PFop_R",
+        "size": "248"
+    },
+    "35": {
+        "label": "Inferior_parietal_lobule_PFt_L",
+        "size": "376"
+    },
+    "36": {
+        "label": "Inferior_parietal_lobule_PFt_R",
+        "size": "389"
+    },
+    "37": {
+        "label": "Inferior_parietal_lobule_Pga_L",
+        "size": "780"
+    },
+    "38": {
+        "label": "Inferior_parietal_lobule_Pga_R",
+        "size": "1092"
+    },
+    "39": {
+        "label": "Inferior_parietal_lobule_PGp_L",
+        "size": "1301"
+    },
+    "4": {
+        "label": "Anterior_intra-parietal_sulcus_hIP2_R",
+        "size": "113"
+    },
+    "40": {
+        "label": "Inferior_parietal_lobule_PGp_R",
+        "size": "1299"
+    },
+    "41": {
+        "label": "Primary_auditory_cortex_TE1.0_L",
+        "size": "206"
+    },
+    "42": {
+        "label": "Primary_auditory_cortex_TE1.0_R",
+        "size": "247"
+    },
+    "43": {
+        "label": "Primary_auditory_cortex_TE1.1_L",
+        "size": "164"
+    },
+    "44": {
+        "label": "Primary_auditory_cortex_TE1.1_R",
+        "size": "161"
+    },
+    "45": {
+        "label": "Primary_auditory_cortex_TE1.2_L",
+        "size": "133"
+    },
+    "46": {
+        "label": "Primary_auditory_cortex_TE1.2_R",
+        "size": "99"
+    },
+    "47": {
+        "label": "Primary_motor_cortex_BA4a_L",
+        "size": "1064"
+    },
+    "48": {
+        "label": "Primary_motor_cortex_BA4a_R",
+        "size": "926"
+    },
+    "49": {
+        "label": "Primary_motor_cortex_BA4p_L",
+        "size": "359"
+    },
+    "5": {
+        "label": "Anterior_intra-parietal_sulcus_hIP3_L",
+        "size": "280"
+    },
+    "50": {
+        "label": "Primary_motor_cortex_BA4p_R",
+        "size": "319"
+    },
+    "51": {
+        "label": "Primary_somatosensory_cortex_BA1_L",
+        "size": "893"
+    },
+    "52": {
+        "label": "Primary_somatosensory_cortex_BA1_R",
+        "size": "852"
+    },
+    "53": {
+        "label": "Primary_somatosensory_cortex_BA2_L",
+        "size": "853"
+    },
+    "54": {
+        "label": "Primary_somatosensory_cortex_BA2_R",
+        "size": "911"
+    },
+    "55": {
+        "label": "Primary_somatosensory_cortex_BA3a_L",
+        "size": "402"
+    },
+    "56": {
+        "label": "Primary_somatosensory_cortex_BA3a_R",
+        "size": "403"
+    },
+    "57": {
+        "label": "Primary_somatosensory_cortex_BA3b_L",
+        "size": "575"
+    },
+    "58": {
+        "label": "Primary_somatosensory_cortex_BA3b_R",
+        "size": "852"
+    },
+    "59": {
+        "label": "Secondary_somatosensory_cortex_/_Parietal_operculum_OP1_L",
+        "size": "612"
+    },
+    "6": {
+        "label": "Anterior_intra-parietal_sulcus_hIP3_R",
+        "size": "311"
+    },
+    "60": {
+        "label": "Secondary_somatosensory_cortex_/_Parietal_operculum_OP1_R",
+        "size": "524"
+    },
+    "61": {
+        "label": "Secondary_somatosensory_cortex_/_Parietal_operculum_OP2_L",
+        "size": "131"
+    },
+    "62": {
+        "label": "Secondary_somatosensory_cortex_/_Parietal_operculum_OP2_R",
+        "size": "159"
+    },
+    "63": {
+        "label": "Secondary_somatosensory_cortex_/_Parietal_operculum_OP3_L",
+        "size": "310"
+    },
+    "64": {
+        "label": "Secondary_somatosensory_cortex_/_Parietal_operculum_OP3_R",
+        "size": "299"
+    },
+    "65": {
+        "label": "Secondary_somatosensory_cortex_/_Parietal_operculum_OP4_L",
+        "size": "596"
+    },
+    "66": {
+        "label": "Secondary_somatosensory_cortex_/_Parietal_operculum_OP4_R",
+        "size": "515"
+    },
+    "67": {
+        "label": "Superior_parietal_lobule_5Ci_L",
+        "size": "160"
+    },
+    "68": {
+        "label": "Superior_parietal_lobule_5Ci_R",
+        "size": "230"
+    },
+    "69": {
+        "label": "Superior_parietal_lobule_5L_L",
+        "size": "496"
+    },
+    "7": {
+        "label": "Amygdala_centromedial_group_L",
+        "size": "57"
+    },
+    "70": {
+        "label": "Superior_parietal_lobule_5L_R",
+        "size": "666"
+    },
+    "71": {
+        "label": "Superior_parietal_lobule_5M_L",
+        "size": "375"
+    },
+    "72": {
+        "label": "Superior_parietal_lobule_5M_R",
+        "size": "400"
+    },
+    "73": {
+        "label": "Superior_parietal_lobule_7A_L",
+        "size": "1858"
+    },
+    "74": {
+        "label": "Superior_parietal_lobule_7A_R",
+        "size": "1283"
+    },
+    "75": {
+        "label": "Superior_parietal_lobule_7M_L",
+        "size": "94"
+    },
+    "76": {
+        "label": "Superior_parietal_lobule_7M_R",
+        "size": "221"
+    },
+    "77": {
+        "label": "Superior_parietal_lobule_7PC_L",
+        "size": "179"
+    },
+    "78": {
+        "label": "Superior_parietal_lobule_7PC_R",
+        "size": "370"
+    },
+    "79": {
+        "label": "Superior_parietal_lobule_7P_L",
+        "size": "636"
+    },
+    "8": {
+        "label": "Amygdala_centromedial_group_R",
+        "size": "66"
+    },
+    "80": {
+        "label": "Superior_parietal_lobule_7P_R",
+        "size": "758"
+    },
+    "81": {
+        "label": "Visual_cortex_V1_BA17_L",
+        "size": "1997"
+    },
+    "82": {
+        "label": "Visual_cortex_V1_BA17_R",
+        "size": "2384"
+    },
+    "83": {
+        "label": "Visual_cortex_V2_BA18_L",
+        "size": "1693"
+    },
+    "84": {
+        "label": "Visual_cortex_V2_BA18_R",
+        "size": "1873"
+    },
+    "85": {
+        "label": "Visual_cortex_V3V_L",
+        "size": "600"
+    },
+    "86": {
+        "label": "Visual_cortex_V3V_R",
+        "size": "649"
+    },
+    "87": {
+        "label": "Visual_cortex_V4_L",
+        "size": "781"
+    },
+    "88": {
+        "label": "Visual_cortex_V4_R",
+        "size": "647"
+    },
+    "89": {
+        "label": "Visual_cortex_V5_L",
+        "size": "155"
+    },
+    "9": {
+        "label": "Amygdala_laterobasal_group_L",
+        "size": "314"
+    },
+    "90": {
+        "label": "Visual_cortex_V5_R",
+        "size": "165"
+    },
+    "91": {
+        "label": "Premotor_cortex_BA6_L",
+        "size": "4957"
+    },
+    "92": {
+        "label": "Premotor_cortex_BA6_R",
+        "size": "4949"
+    },
+    "93": {
+        "label": "Lateral_geniculate_body_R",
+        "size": "34"
+    },
+    "94": {
+        "label": "Lateral_geniculate_body_L",
+        "size": "27"
+    },
+    "95": {
+        "label": "Medial_geniculate_body_R",
+        "size": "11"
+    },
+    "96": {
+        "label": "Medial_geniculate_body_L",
+        "size": "15"
+    },
+    "97": {
+        "label": "Insula_Id1_L",
+        "size": "76"
+    },
+    "98": {
+        "label": "Insula_Id1_R",
+        "size": "88"
+    },
+    "99": {
+        "label": "Insula_Ig1_L",
+        "size": "21"
+    }
+}

@@ -1,0 +1,458 @@
+{
+    "0": {
+        "label": "empty",
+        "size": "757372"
+    },
+    "1": {
+        "label": NaN,
+        "size": "7065"
+    },
+    "10": {
+        "label": NaN,
+        "size": "495"
+    },
+    "100": {
+        "label": "Right_Thalamus",
+        "size": "1282"
+    },
+    "101": {
+        "label": "Left_Caudate",
+        "size": "486"
+    },
+    "102": {
+        "label": "Right_Caudate",
+        "size": "510"
+    },
+    "103": {
+        "label": "Left_Putamen",
+        "size": "798"
+    },
+    "104": {
+        "label": "Right_Putamen",
+        "size": "795"
+    },
+    "105": {
+        "label": "Left_Pallidum",
+        "size": "266"
+    },
+    "106": {
+        "label": "Right_Pallidum",
+        "size": "259"
+    },
+    "107": {
+        "label": "Left_Hippocampus",
+        "size": "690"
+    },
+    "108": {
+        "label": "Right_Hippocampus",
+        "size": "699"
+    },
+    "109": {
+        "label": "Left_Amygdala",
+        "size": "305"
+    },
+    "11": {
+        "label": NaN,
+        "size": "728"
+    },
+    "110": {
+        "label": "Right_Amygdala",
+        "size": "365"
+    },
+    "111": {
+        "label": "Left_Accumbens",
+        "size": "88"
+    },
+    "112": {
+        "label": "Right_Accumbens",
+        "size": "83"
+    },
+    "113": {
+        "label": "Brain-Stem",
+        "size": "4889"
+    },
+    "12": {
+        "label": NaN,
+        "size": "654"
+    },
+    "13": {
+        "label": NaN,
+        "size": "4367"
+    },
+    "14": {
+        "label": NaN,
+        "size": "4148"
+    },
+    "15": {
+        "label": NaN,
+        "size": "2349"
+    },
+    "16": {
+        "label": NaN,
+        "size": "2360"
+    },
+    "17": {
+        "label": NaN,
+        "size": "252"
+    },
+    "18": {
+        "label": NaN,
+        "size": "267"
+    },
+    "19": {
+        "label": NaN,
+        "size": "876"
+    },
+    "2": {
+        "label": NaN,
+        "size": "8249"
+    },
+    "20": {
+        "label": NaN,
+        "size": "952"
+    },
+    "21": {
+        "label": NaN,
+        "size": "445"
+    },
+    "22": {
+        "label": NaN,
+        "size": "401"
+    },
+    "23": {
+        "label": NaN,
+        "size": "1269"
+    },
+    "24": {
+        "label": NaN,
+        "size": "1254"
+    },
+    "25": {
+        "label": NaN,
+        "size": "852"
+    },
+    "26": {
+        "label": NaN,
+        "size": "1150"
+    },
+    "27": {
+        "label": NaN,
+        "size": "329"
+    },
+    "28": {
+        "label": NaN,
+        "size": "316"
+    },
+    "29": {
+        "label": NaN,
+        "size": "994"
+    },
+    "3": {
+        "label": NaN,
+        "size": "1159"
+    },
+    "30": {
+        "label": NaN,
+        "size": "946"
+    },
+    "31": {
+        "label": NaN,
+        "size": "695"
+    },
+    "32": {
+        "label": NaN,
+        "size": "773"
+    },
+    "33": {
+        "label": NaN,
+        "size": "3625"
+    },
+    "34": {
+        "label": NaN,
+        "size": "3245"
+    },
+    "35": {
+        "label": NaN,
+        "size": "1448"
+    },
+    "36": {
+        "label": NaN,
+        "size": "1458"
+    },
+    "37": {
+        "label": NaN,
+        "size": "945"
+    },
+    "38": {
+        "label": NaN,
+        "size": "795"
+    },
+    "39": {
+        "label": NaN,
+        "size": "1051"
+    },
+    "4": {
+        "label": NaN,
+        "size": "1180"
+    },
+    "40": {
+        "label": NaN,
+        "size": "1206"
+    },
+    "41": {
+        "label": NaN,
+        "size": "947"
+    },
+    "42": {
+        "label": NaN,
+        "size": "1460"
+    },
+    "43": {
+        "label": NaN,
+        "size": "4954"
+    },
+    "44": {
+        "label": NaN,
+        "size": "4823"
+    },
+    "45": {
+        "label": NaN,
+        "size": "2043"
+    },
+    "46": {
+        "label": NaN,
+        "size": "2044"
+    },
+    "47": {
+        "label": NaN,
+        "size": "645"
+    },
+    "48": {
+        "label": NaN,
+        "size": "732"
+    },
+    "49": {
+        "label": NaN,
+        "size": "430"
+    },
+    "5": {
+        "label": NaN,
+        "size": "2597"
+    },
+    "50": {
+        "label": NaN,
+        "size": "519"
+    },
+    "51": {
+        "label": NaN,
+        "size": "751"
+    },
+    "52": {
+        "label": NaN,
+        "size": "710"
+    },
+    "53": {
+        "label": NaN,
+        "size": "536"
+    },
+    "54": {
+        "label": NaN,
+        "size": "569"
+    },
+    "55": {
+        "label": NaN,
+        "size": "1517"
+    },
+    "56": {
+        "label": NaN,
+        "size": "1382"
+    },
+    "57": {
+        "label": NaN,
+        "size": "1298"
+    },
+    "58": {
+        "label": NaN,
+        "size": "1269"
+    },
+    "59": {
+        "label": NaN,
+        "size": "1224"
+    },
+    "6": {
+        "label": NaN,
+        "size": "2403"
+    },
+    "60": {
+        "label": NaN,
+        "size": "1151"
+    },
+    "61": {
+        "label": NaN,
+        "size": "2756"
+    },
+    "62": {
+        "label": NaN,
+        "size": "2787"
+    },
+    "63": {
+        "label": NaN,
+        "size": "574"
+    },
+    "64": {
+        "label": NaN,
+        "size": "633"
+    },
+    "65": {
+        "label": NaN,
+        "size": "1702"
+    },
+    "66": {
+        "label": NaN,
+        "size": "1444"
+    },
+    "67": {
+        "label": NaN,
+        "size": "564"
+    },
+    "68": {
+        "label": NaN,
+        "size": "620"
+    },
+    "69": {
+        "label": NaN,
+        "size": "388"
+    },
+    "7": {
+        "label": NaN,
+        "size": "2754"
+    },
+    "70": {
+        "label": NaN,
+        "size": "319"
+    },
+    "71": {
+        "label": NaN,
+        "size": "1603"
+    },
+    "72": {
+        "label": NaN,
+        "size": "1709"
+    },
+    "73": {
+        "label": NaN,
+        "size": "315"
+    },
+    "74": {
+        "label": NaN,
+        "size": "293"
+    },
+    "75": {
+        "label": NaN,
+        "size": "872"
+    },
+    "76": {
+        "label": NaN,
+        "size": "720"
+    },
+    "77": {
+        "label": NaN,
+        "size": "647"
+    },
+    "78": {
+        "label": NaN,
+        "size": "820"
+    },
+    "79": {
+        "label": NaN,
+        "size": "925"
+    },
+    "8": {
+        "label": NaN,
+        "size": "2560"
+    },
+    "80": {
+        "label": NaN,
+        "size": "879"
+    },
+    "81": {
+        "label": NaN,
+        "size": "361"
+    },
+    "82": {
+        "label": NaN,
+        "size": "324"
+    },
+    "83": {
+        "label": NaN,
+        "size": "983"
+    },
+    "84": {
+        "label": NaN,
+        "size": "901"
+    },
+    "85": {
+        "label": NaN,
+        "size": "575"
+    },
+    "86": {
+        "label": NaN,
+        "size": "542"
+    },
+    "87": {
+        "label": NaN,
+        "size": "359"
+    },
+    "88": {
+        "label": NaN,
+        "size": "388"
+    },
+    "89": {
+        "label": NaN,
+        "size": "319"
+    },
+    "9": {
+        "label": NaN,
+        "size": "606"
+    },
+    "90": {
+        "label": NaN,
+        "size": "283"
+    },
+    "91": {
+        "label": NaN,
+        "size": "532"
+    },
+    "92": {
+        "label": NaN,
+        "size": "418"
+    },
+    "93": {
+        "label": NaN,
+        "size": "112"
+    },
+    "94": {
+        "label": NaN,
+        "size": "125"
+    },
+    "95": {
+        "label": NaN,
+        "size": "2745"
+    },
+    "96": {
+        "label": NaN,
+        "size": "2387"
+    },
+    "97": {
+        "label": NaN,
+        "size": "1144"
+    },
+    "98": {
+        "label": NaN,
+        "size": "1018"
+    },
+    "99": {
+        "label": NaN,
+        "size": "1320"
+    }
+}

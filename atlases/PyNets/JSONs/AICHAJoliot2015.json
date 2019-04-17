@@ -1,0 +1,1542 @@
+{
+    "0": {
+        "label": "empty",
+        "size": "758420"
+    },
+    "1": {
+        "label": "G_Frontal_Sup-1-L",
+        "size": "138"
+    },
+    "10": {
+        "label": "S_Sup_Frontal-2-R",
+        "size": "603"
+    },
+    "100": {
+        "label": "G_SupraMarginal-7-R",
+        "size": "124"
+    },
+    "101": {
+        "label": "G_Angular-1-L",
+        "size": "540"
+    },
+    "102": {
+        "label": "G_Angular-1-R",
+        "size": "540"
+    },
+    "103": {
+        "label": "G_Angular-2-L",
+        "size": "489"
+    },
+    "104": {
+        "label": "G_Angular-2-R",
+        "size": "554"
+    },
+    "105": {
+        "label": "G_Angular-3-L",
+        "size": "307"
+    },
+    "106": {
+        "label": "G_Angular-3-R",
+        "size": "276"
+    },
+    "107": {
+        "label": "G_Parietal_Inf-1-L",
+        "size": "191"
+    },
+    "108": {
+        "label": "G_Parietal_Inf-1-R",
+        "size": "409"
+    },
+    "109": {
+        "label": "S_Intraparietal-1-L",
+        "size": "388"
+    },
+    "11": {
+        "label": "S_Sup_Frontal-3-L",
+        "size": "634"
+    },
+    "110": {
+        "label": "S_Intraparietal-1-R",
+        "size": "632"
+    },
+    "111": {
+        "label": "S_Intraparietal-2-L",
+        "size": "760"
+    },
+    "112": {
+        "label": "S_Intraparietal-2-R",
+        "size": "716"
+    },
+    "113": {
+        "label": "S_Intraparietal-3-L",
+        "size": "705"
+    },
+    "114": {
+        "label": "S_Intraparietal-3-R",
+        "size": "745"
+    },
+    "115": {
+        "label": "S_Intraoccipital-1-L",
+        "size": "48"
+    },
+    "116": {
+        "label": "S_Intraoccipital-1-R",
+        "size": "47"
+    },
+    "117": {
+        "label": "G_Occipital_Pole-1-L",
+        "size": "301"
+    },
+    "118": {
+        "label": "G_Occipital_Pole-1-R",
+        "size": "382"
+    },
+    "119": {
+        "label": "G_Occipital_Lat-1-L",
+        "size": "355"
+    },
+    "12": {
+        "label": "S_Sup_Frontal-3-R",
+        "size": "654"
+    },
+    "120": {
+        "label": "G_Occipital_Lat-1-R",
+        "size": "421"
+    },
+    "121": {
+        "label": "G_Occipital_Lat-2-L",
+        "size": "575"
+    },
+    "122": {
+        "label": "G_Occipital_Lat-2-R",
+        "size": "698"
+    },
+    "123": {
+        "label": "G_Occipital_Lat-3-L",
+        "size": "144"
+    },
+    "124": {
+        "label": "G_Occipital_Lat-3-R",
+        "size": "114"
+    },
+    "125": {
+        "label": "G_Occipital_Lat-4-L",
+        "size": "484"
+    },
+    "126": {
+        "label": "G_Occipital_Lat-4-R",
+        "size": "471"
+    },
+    "127": {
+        "label": "G_Occipital_Lat-5-L",
+        "size": "973"
+    },
+    "128": {
+        "label": "G_Occipital_Lat-5-R",
+        "size": "1014"
+    },
+    "129": {
+        "label": "G_Occipital_Sup-1-L",
+        "size": "183"
+    },
+    "13": {
+        "label": "S_Sup_Frontal-4-L",
+        "size": "895"
+    },
+    "130": {
+        "label": "G_Occipital_Sup-1-R",
+        "size": "170"
+    },
+    "131": {
+        "label": "G_Occipital_Sup-2-L",
+        "size": "498"
+    },
+    "132": {
+        "label": "G_Occipital_Sup-2-R",
+        "size": "559"
+    },
+    "133": {
+        "label": "G_Occipital_Mid-1-L",
+        "size": "495"
+    },
+    "134": {
+        "label": "G_Occipital_Mid-1-R",
+        "size": "510"
+    },
+    "135": {
+        "label": "G_Occipital_Mid-2-L",
+        "size": "224"
+    },
+    "136": {
+        "label": "G_Occipital_Mid-2-R",
+        "size": "375"
+    },
+    "137": {
+        "label": "G_Occipital_Mid-3-L",
+        "size": "201"
+    },
+    "138": {
+        "label": "G_Occipital_Mid-3-R",
+        "size": "158"
+    },
+    "139": {
+        "label": "G_Occipital_Mid-4-L",
+        "size": "362"
+    },
+    "14": {
+        "label": "S_Sup_Frontal-4-R",
+        "size": "386"
+    },
+    "140": {
+        "label": "G_Occipital_Mid-4-R",
+        "size": "497"
+    },
+    "141": {
+        "label": "G_Occipital_Inf-1-L",
+        "size": "138"
+    },
+    "142": {
+        "label": "G_Occipital_Inf-1-R",
+        "size": "179"
+    },
+    "143": {
+        "label": "G_Occipital_Inf-2-L",
+        "size": "381"
+    },
+    "144": {
+        "label": "G_Occipital_Inf-2-R",
+        "size": "449"
+    },
+    "145": {
+        "label": "G_Insula-anterior-1-L",
+        "size": "251"
+    },
+    "146": {
+        "label": "G_Insula-anterior-1-R",
+        "size": "316"
+    },
+    "147": {
+        "label": "G_Insula-anterior-2-L",
+        "size": "398"
+    },
+    "148": {
+        "label": "G_Insula-anterior-2-R",
+        "size": "272"
+    },
+    "149": {
+        "label": "G_Insula-anterior-3-L",
+        "size": "468"
+    },
+    "15": {
+        "label": "S_Sup_Frontal-5-L",
+        "size": "551"
+    },
+    "150": {
+        "label": "G_Insula-anterior-3-R",
+        "size": "720"
+    },
+    "151": {
+        "label": "G_Insula-anterior-4-L",
+        "size": "733"
+    },
+    "152": {
+        "label": "G_Insula-anterior-4-R",
+        "size": "592"
+    },
+    "153": {
+        "label": "G_Insula-anterior-5-L",
+        "size": "592"
+    },
+    "154": {
+        "label": "G_Insula-anterior-5-R",
+        "size": "590"
+    },
+    "155": {
+        "label": "G_Insula-posterior-1-L",
+        "size": "922"
+    },
+    "156": {
+        "label": "G_Insula-posterior-1-R",
+        "size": "857"
+    },
+    "157": {
+        "label": "G_Rolandic_Oper-1-L",
+        "size": "649"
+    },
+    "158": {
+        "label": "G_Rolandic_Oper-1-R",
+        "size": "557"
+    },
+    "159": {
+        "label": "G_Rolandic_Oper-2-L",
+        "size": "549"
+    },
+    "16": {
+        "label": "S_Sup_Frontal-5-R",
+        "size": "1023"
+    },
+    "160": {
+        "label": "G_Rolandic_Oper-2-R",
+        "size": "615"
+    },
+    "161": {
+        "label": "G_Temporal_Sup-1-L",
+        "size": "104"
+    },
+    "162": {
+        "label": "G_Temporal_Sup-1-R",
+        "size": "135"
+    },
+    "163": {
+        "label": "G_Temporal_Sup-2-L",
+        "size": "307"
+    },
+    "164": {
+        "label": "G_Temporal_Sup-2-R",
+        "size": "306"
+    },
+    "165": {
+        "label": "G_Temporal_Sup-3-L",
+        "size": "953"
+    },
+    "166": {
+        "label": "G_Temporal_Sup-3-R",
+        "size": "824"
+    },
+    "167": {
+        "label": "G_Temporal_Sup-4-L",
+        "size": "831"
+    },
+    "168": {
+        "label": "G_Temporal_Sup-4-R",
+        "size": "728"
+    },
+    "169": {
+        "label": "S_Sup_Temporal-1-L",
+        "size": "325"
+    },
+    "17": {
+        "label": "S_Sup_Frontal-6-L",
+        "size": "557"
+    },
+    "170": {
+        "label": "S_Sup_Temporal-1-R",
+        "size": "84"
+    },
+    "171": {
+        "label": "S_Sup_Temporal-2-L",
+        "size": "402"
+    },
+    "172": {
+        "label": "S_Sup_Temporal-2-R",
+        "size": "766"
+    },
+    "173": {
+        "label": "S_Sup_Temporal-3-L",
+        "size": "628"
+    },
+    "174": {
+        "label": "S_Sup_Temporal-3-R",
+        "size": "640"
+    },
+    "175": {
+        "label": "S_Sup_Temporal-4-L",
+        "size": "641"
+    },
+    "176": {
+        "label": "S_Sup_Temporal-4-R",
+        "size": "839"
+    },
+    "177": {
+        "label": "S_Sup_Temporal-5-L",
+        "size": "710"
+    },
+    "178": {
+        "label": "S_Sup_Temporal-5-R",
+        "size": "462"
+    },
+    "179": {
+        "label": "G_Temporal_Mid-1-L",
+        "size": "363"
+    },
+    "18": {
+        "label": "S_Sup_Frontal-6-R",
+        "size": "508"
+    },
+    "180": {
+        "label": "G_Temporal_Mid-1-R",
+        "size": "213"
+    },
+    "181": {
+        "label": "G_Temporal_Mid-2-L",
+        "size": "535"
+    },
+    "182": {
+        "label": "G_Temporal_Mid-2-R",
+        "size": "591"
+    },
+    "183": {
+        "label": "G_Temporal_Mid-3-L",
+        "size": "265"
+    },
+    "184": {
+        "label": "G_Temporal_Mid-3-R",
+        "size": "240"
+    },
+    "185": {
+        "label": "G_Temporal_Mid-4-L",
+        "size": "495"
+    },
+    "186": {
+        "label": "G_Temporal_Mid-4-R",
+        "size": "268"
+    },
+    "187": {
+        "label": "G_Temporal_Inf-1-L",
+        "size": "929"
+    },
+    "188": {
+        "label": "G_Temporal_Inf-1-R",
+        "size": "926"
+    },
+    "189": {
+        "label": "G_Temporal_Inf-2-L",
+        "size": "628"
+    },
+    "19": {
+        "label": "G_Frontal_Mid-1-L",
+        "size": "271"
+    },
+    "190": {
+        "label": "G_Temporal_Inf-2-R",
+        "size": "648"
+    },
+    "191": {
+        "label": "G_Temporal_Inf-3-L",
+        "size": "653"
+    },
+    "192": {
+        "label": "G_Temporal_Inf-3-R",
+        "size": "595"
+    },
+    "193": {
+        "label": "G_Temporal_Inf-4-L",
+        "size": "409"
+    },
+    "194": {
+        "label": "G_Temporal_Inf-4-R",
+        "size": "225"
+    },
+    "195": {
+        "label": "G_Temporal_Inf-5-L",
+        "size": "135"
+    },
+    "196": {
+        "label": "G_Temporal_Inf-5-R",
+        "size": "137"
+    },
+    "197": {
+        "label": "G_Temporal_Pole_Sup-1-L",
+        "size": "362"
+    },
+    "198": {
+        "label": "G_Temporal_Pole_Sup-1-R",
+        "size": "206"
+    },
+    "199": {
+        "label": "G_Temporal_Pole_Sup-2-L",
+        "size": "200"
+    },
+    "2": {
+        "label": "G_Frontal_Sup-1-R",
+        "size": "24"
+    },
+    "20": {
+        "label": "G_Frontal_Mid-1-R",
+        "size": "515"
+    },
+    "200": {
+        "label": "G_Temporal_Pole_Sup-2-R",
+        "size": "343"
+    },
+    "201": {
+        "label": "G_Temporal_Pole_Mid-1-L",
+        "size": "860"
+    },
+    "202": {
+        "label": "G_Temporal_Pole_Mid-1-R",
+        "size": "410"
+    },
+    "203": {
+        "label": "G_Temporal_Pole_Mid-2-L",
+        "size": "45"
+    },
+    "204": {
+        "label": "G_Temporal_Pole_Mid-2-R",
+        "size": "198"
+    },
+    "205": {
+        "label": "G_Temporal_Pole_Mid-3-L",
+        "size": "879"
+    },
+    "206": {
+        "label": "G_Temporal_Pole_Mid-3-R",
+        "size": "990"
+    },
+    "207": {
+        "label": "G_Frontal_Sup_Medial-1-L",
+        "size": "380"
+    },
+    "208": {
+        "label": "G_Frontal_Sup_Medial-1-R",
+        "size": "363"
+    },
+    "209": {
+        "label": "G_Frontal_Sup_Medial-2-L",
+        "size": "492"
+    },
+    "21": {
+        "label": "G_Frontal_Mid-2-L",
+        "size": "758"
+    },
+    "210": {
+        "label": "G_Frontal_Sup_Medial-2-R",
+        "size": "523"
+    },
+    "211": {
+        "label": "G_Frontal_Sup_Medial-3-L",
+        "size": "302"
+    },
+    "212": {
+        "label": "G_Frontal_Sup_Medial-3-R",
+        "size": "341"
+    },
+    "213": {
+        "label": "S_Anterior_Rostral-1-L",
+        "size": "536"
+    },
+    "214": {
+        "label": "S_Anterior_Rostral-1-R",
+        "size": "386"
+    },
+    "215": {
+        "label": "G_Frontal_Med_Orb-1-L",
+        "size": "264"
+    },
+    "216": {
+        "label": "G_Frontal_Med_Orb-1-R",
+        "size": "252"
+    },
+    "217": {
+        "label": "G_Frontal_Med_Orb-2-L",
+        "size": "300"
+    },
+    "218": {
+        "label": "G_Frontal_Med_Orb-2-R",
+        "size": "274"
+    },
+    "219": {
+        "label": "G_subcallosal-1-L",
+        "size": "243"
+    },
+    "22": {
+        "label": "G_Frontal_Mid-2-R",
+        "size": "696"
+    },
+    "220": {
+        "label": "G_subcallosal-1-R",
+        "size": "238"
+    },
+    "221": {
+        "label": "G_Supp_Motor_Area-1-L",
+        "size": "129"
+    },
+    "222": {
+        "label": "G_Supp_Motor_Area-1-R",
+        "size": "152"
+    },
+    "223": {
+        "label": "G_Supp_Motor_Area-2-L",
+        "size": "267"
+    },
+    "224": {
+        "label": "G_Supp_Motor_Area-2-R",
+        "size": "199"
+    },
+    "225": {
+        "label": "G_Supp_Motor_Area-3-L",
+        "size": "517"
+    },
+    "226": {
+        "label": "G_Supp_Motor_Area-3-R",
+        "size": "257"
+    },
+    "227": {
+        "label": "S_Cingulate-1-L",
+        "size": "303"
+    },
+    "228": {
+        "label": "S_Cingulate-1-R",
+        "size": "286"
+    },
+    "229": {
+        "label": "S_Cingulate-2-L",
+        "size": "269"
+    },
+    "23": {
+        "label": "G_Frontal_Mid-3-L",
+        "size": "139"
+    },
+    "230": {
+        "label": "S_Cingulate-2-R",
+        "size": "341"
+    },
+    "231": {
+        "label": "S_Cingulate-3-L",
+        "size": "367"
+    },
+    "232": {
+        "label": "S_Cingulate-3-R",
+        "size": "468"
+    },
+    "233": {
+        "label": "S_Cingulate-4-L",
+        "size": "545"
+    },
+    "234": {
+        "label": "S_Cingulate-4-R",
+        "size": "520"
+    },
+    "235": {
+        "label": "S_Cingulate-5-L",
+        "size": "267"
+    },
+    "236": {
+        "label": "S_Cingulate-5-R",
+        "size": "267"
+    },
+    "237": {
+        "label": "S_Cingulate-6-L",
+        "size": "385"
+    },
+    "238": {
+        "label": "S_Cingulate-6-R",
+        "size": "373"
+    },
+    "239": {
+        "label": "S_Cingulate-7-L",
+        "size": "256"
+    },
+    "24": {
+        "label": "G_Frontal_Mid-3-R",
+        "size": "294"
+    },
+    "240": {
+        "label": "S_Cingulate-7-R",
+        "size": "286"
+    },
+    "241": {
+        "label": "G_Cingulum_Ant-1-L",
+        "size": "430"
+    },
+    "242": {
+        "label": "G_Cingulum_Ant-1-R",
+        "size": "583"
+    },
+    "243": {
+        "label": "G_Cingulum_Ant-2-L",
+        "size": "338"
+    },
+    "244": {
+        "label": "G_Cingulum_Ant-2-R",
+        "size": "339"
+    },
+    "245": {
+        "label": "G_Cingulum_Mid-1-L",
+        "size": "43"
+    },
+    "246": {
+        "label": "G_Cingulum_Mid-1-R",
+        "size": "39"
+    },
+    "247": {
+        "label": "G_Cingulum_Mid-2-L",
+        "size": "66"
+    },
+    "248": {
+        "label": "G_Cingulum_Mid-2-R",
+        "size": "77"
+    },
+    "249": {
+        "label": "G_Cingulum_Mid-3-L",
+        "size": "212"
+    },
+    "25": {
+        "label": "G_Frontal_Mid-4-L",
+        "size": "498"
+    },
+    "250": {
+        "label": "G_Cingulum_Mid-3-R",
+        "size": "272"
+    },
+    "251": {
+        "label": "G_Cingulum_Post-1-L",
+        "size": "165"
+    },
+    "252": {
+        "label": "G_Cingulum_Post-1-R",
+        "size": "194"
+    },
+    "253": {
+        "label": "G_Cingulum_Post-2-L",
+        "size": "101"
+    },
+    "254": {
+        "label": "G_Cingulum_Post-2-R",
+        "size": "210"
+    },
+    "255": {
+        "label": "G_Cingulum_Post-3-L",
+        "size": "44"
+    },
+    "256": {
+        "label": "G_Cingulum_Post-3-R",
+        "size": "72"
+    },
+    "257": {
+        "label": "G_Paracentral_Lobule-1-L",
+        "size": "236"
+    },
+    "258": {
+        "label": "G_Paracentral_Lobule-1-R",
+        "size": "311"
+    },
+    "259": {
+        "label": "G_Paracentral_Lobule-2-L",
+        "size": "459"
+    },
+    "26": {
+        "label": "G_Frontal_Mid-4-R",
+        "size": "423"
+    },
+    "260": {
+        "label": "G_Paracentral_Lobule-2-R",
+        "size": "559"
+    },
+    "261": {
+        "label": "G_Paracentral_Lobule-3-L",
+        "size": "391"
+    },
+    "262": {
+        "label": "G_Paracentral_Lobule-3-R",
+        "size": "406"
+    },
+    "263": {
+        "label": "G_Paracentral_Lobule-4-L",
+        "size": "226"
+    },
+    "264": {
+        "label": "G_Paracentral_Lobule-4-R",
+        "size": "217"
+    },
+    "265": {
+        "label": "G_Precuneus-1-L",
+        "size": "426"
+    },
+    "266": {
+        "label": "G_Precuneus-1-R",
+        "size": "441"
+    },
+    "267": {
+        "label": "G_Precuneus-2-L",
+        "size": "231"
+    },
+    "268": {
+        "label": "G_Precuneus-2-R",
+        "size": "203"
+    },
+    "269": {
+        "label": "G_Precuneus-3-L",
+        "size": "557"
+    },
+    "27": {
+        "label": "G_Frontal_Mid-5-L",
+        "size": "244"
+    },
+    "270": {
+        "label": "G_Precuneus-3-R",
+        "size": "396"
+    },
+    "271": {
+        "label": "G_Precuneus-4-L",
+        "size": "268"
+    },
+    "272": {
+        "label": "G_Precuneus-4-R",
+        "size": "268"
+    },
+    "273": {
+        "label": "G_Precuneus-5-L",
+        "size": "323"
+    },
+    "274": {
+        "label": "G_Precuneus-5-R",
+        "size": "340"
+    },
+    "275": {
+        "label": "G_Precuneus-6-L",
+        "size": "264"
+    },
+    "276": {
+        "label": "G_Precuneus-6-R",
+        "size": "300"
+    },
+    "277": {
+        "label": "G_Precuneus-7-L",
+        "size": "158"
+    },
+    "278": {
+        "label": "G_Precuneus-7-R",
+        "size": "147"
+    },
+    "279": {
+        "label": "G_Precuneus-8-L",
+        "size": "335"
+    },
+    "28": {
+        "label": "G_Frontal_Mid-5-R",
+        "size": "526"
+    },
+    "280": {
+        "label": "G_Precuneus-8-R",
+        "size": "362"
+    },
+    "281": {
+        "label": "G_Precuneus-9-L",
+        "size": "204"
+    },
+    "282": {
+        "label": "G_Precuneus-9-R",
+        "size": "273"
+    },
+    "283": {
+        "label": "S_Parietooccipital-1-L",
+        "size": "468"
+    },
+    "284": {
+        "label": "S_Parietooccipital-1-R",
+        "size": "434"
+    },
+    "285": {
+        "label": "S_Parietooccipital-2-L",
+        "size": "129"
+    },
+    "286": {
+        "label": "S_Parietooccipital-2-R",
+        "size": "157"
+    },
+    "287": {
+        "label": "S_Parietooccipital-3-L",
+        "size": "235"
+    },
+    "288": {
+        "label": "S_Parietooccipital-3-R",
+        "size": "253"
+    },
+    "289": {
+        "label": "S_Parietooccipital-4-L",
+        "size": "322"
+    },
+    "29": {
+        "label": "S_Inf_Frontal-1-L",
+        "size": "584"
+    },
+    "290": {
+        "label": "S_Parietooccipital-4-R",
+        "size": "391"
+    },
+    "291": {
+        "label": "S_Parietooccipital-5-L",
+        "size": "33"
+    },
+    "292": {
+        "label": "S_Parietooccipital-5-R",
+        "size": "51"
+    },
+    "293": {
+        "label": "S_Parietooccipital-6-L",
+        "size": "176"
+    },
+    "294": {
+        "label": "S_Parietooccipital-6-R",
+        "size": "177"
+    },
+    "295": {
+        "label": "G_Cuneus-1-L",
+        "size": "255"
+    },
+    "296": {
+        "label": "G_Cuneus-1-R",
+        "size": "199"
+    },
+    "297": {
+        "label": "G_Cuneus-2-L",
+        "size": "145"
+    },
+    "298": {
+        "label": "G_Cuneus-2-R",
+        "size": "143"
+    },
+    "299": {
+        "label": "G_Calcarine-1-L",
+        "size": "539"
+    },
+    "3": {
+        "label": "G_Frontal_Sup-2-L",
+        "size": "1071"
+    },
+    "30": {
+        "label": "S_Inf_Frontal-1-R",
+        "size": "280"
+    },
+    "300": {
+        "label": "G_Calcarine-1-R",
+        "size": "516"
+    },
+    "301": {
+        "label": "G_Calcarine-2-L",
+        "size": "444"
+    },
+    "302": {
+        "label": "G_Calcarine-2-R",
+        "size": "412"
+    },
+    "303": {
+        "label": "G_Calcarine-3-L",
+        "size": "925"
+    },
+    "304": {
+        "label": "G_Calcarine-3-R",
+        "size": "852"
+    },
+    "305": {
+        "label": "G_Lingual-1-L",
+        "size": "161"
+    },
+    "306": {
+        "label": "G_Lingual-1-R",
+        "size": "172"
+    },
+    "307": {
+        "label": "G_Lingual-2-L",
+        "size": "282"
+    },
+    "308": {
+        "label": "G_Lingual-2-R",
+        "size": "329"
+    },
+    "309": {
+        "label": "G_Lingual-3-L",
+        "size": "238"
+    },
+    "31": {
+        "label": "S_Inf_Frontal-2-L",
+        "size": "1115"
+    },
+    "310": {
+        "label": "G_Lingual-3-R",
+        "size": "261"
+    },
+    "311": {
+        "label": "G_Lingual-4-L",
+        "size": "37"
+    },
+    "312": {
+        "label": "G_Lingual-4-R",
+        "size": "38"
+    },
+    "313": {
+        "label": "G_Lingual-5-L",
+        "size": "139"
+    },
+    "314": {
+        "label": "G_Lingual-5-R",
+        "size": "82"
+    },
+    "315": {
+        "label": "G_Lingual-6-L",
+        "size": "160"
+    },
+    "316": {
+        "label": "G_Lingual-6-R",
+        "size": "145"
+    },
+    "317": {
+        "label": "G_Hippocampus-1-L",
+        "size": "462"
+    },
+    "318": {
+        "label": "G_Hippocampus-1-R",
+        "size": "423"
+    },
+    "319": {
+        "label": "G_Hippocampus-2-L",
+        "size": "436"
+    },
+    "32": {
+        "label": "S_Inf_Frontal-2-R",
+        "size": "1137"
+    },
+    "320": {
+        "label": "G_Hippocampus-2-R",
+        "size": "484"
+    },
+    "321": {
+        "label": "G_ParaHippocampal-1-L",
+        "size": "230"
+    },
+    "322": {
+        "label": "G_ParaHippocampal-1-R",
+        "size": "210"
+    },
+    "323": {
+        "label": "G_ParaHippocampal-2-L",
+        "size": "328"
+    },
+    "324": {
+        "label": "G_ParaHippocampal-2-R",
+        "size": "300"
+    },
+    "325": {
+        "label": "G_ParaHippocampal-3-L",
+        "size": "93"
+    },
+    "326": {
+        "label": "G_ParaHippocampal-3-R",
+        "size": "127"
+    },
+    "327": {
+        "label": "G_ParaHippocampal-4-L",
+        "size": "258"
+    },
+    "328": {
+        "label": "G_ParaHippocampal-4-R",
+        "size": "320"
+    },
+    "329": {
+        "label": "G_ParaHippocampal-5-L",
+        "size": "386"
+    },
+    "33": {
+        "label": "G_Frontal_Inf_Tri-1-L",
+        "size": "1288"
+    },
+    "330": {
+        "label": "G_ParaHippocampal-5-R",
+        "size": "340"
+    },
+    "331": {
+        "label": "G_Fusiform-1-L",
+        "size": "1012"
+    },
+    "332": {
+        "label": "G_Fusiform-1-R",
+        "size": "1070"
+    },
+    "333": {
+        "label": "G_Fusiform-2-L",
+        "size": "148"
+    },
+    "334": {
+        "label": "G_Fusiform-2-R",
+        "size": "171"
+    },
+    "335": {
+        "label": "G_Fusiform-3-L",
+        "size": "346"
+    },
+    "336": {
+        "label": "G_Fusiform-3-R",
+        "size": "389"
+    },
+    "337": {
+        "label": "G_Fusiform-4-L",
+        "size": "457"
+    },
+    "338": {
+        "label": "G_Fusiform-4-R",
+        "size": "372"
+    },
+    "339": {
+        "label": "G_Fusiform-5-L",
+        "size": "95"
+    },
+    "34": {
+        "label": "G_Frontal_Inf_Tri-1-R",
+        "size": "966"
+    },
+    "340": {
+        "label": "G_Fusiform-5-R",
+        "size": "149"
+    },
+    "341": {
+        "label": "G_Fusiform-6-L",
+        "size": "442"
+    },
+    "342": {
+        "label": "G_Fusiform-6-R",
+        "size": "485"
+    },
+    "343": {
+        "label": "G_Fusiform-7-L",
+        "size": "265"
+    },
+    "344": {
+        "label": "G_Fusiform-7-R",
+        "size": "242"
+    },
+    "345": {
+        "label": "N_Amygdala-1-L",
+        "size": "211"
+    },
+    "346": {
+        "label": "N_Amygdala-1-R",
+        "size": "196"
+    },
+    "347": {
+        "label": "N_Caudate-1-L",
+        "size": "39"
+    },
+    "348": {
+        "label": "N_Caudate-1-R",
+        "size": "32"
+    },
+    "349": {
+        "label": "N_Caudate-2-L",
+        "size": "29"
+    },
+    "35": {
+        "label": "G_Frontal_Sup_Orb-1-L",
+        "size": "420"
+    },
+    "350": {
+        "label": "N_Caudate-2-R",
+        "size": "42"
+    },
+    "351": {
+        "label": "N_Caudate-3-L",
+        "size": "336"
+    },
+    "352": {
+        "label": "N_Caudate-3-R",
+        "size": "317"
+    },
+    "353": {
+        "label": "N_Caudate-4-L",
+        "size": "131"
+    },
+    "354": {
+        "label": "N_Caudate-4-R",
+        "size": "142"
+    },
+    "355": {
+        "label": "N_Caudate-5-L",
+        "size": "353"
+    },
+    "356": {
+        "label": "N_Caudate-5-R",
+        "size": "301"
+    },
+    "357": {
+        "label": "N_Caudate-6-L",
+        "size": "121"
+    },
+    "358": {
+        "label": "N_Caudate-6-R",
+        "size": "156"
+    },
+    "359": {
+        "label": "N_Caudate-7-L",
+        "size": "57"
+    },
+    "36": {
+        "label": "G_Frontal_Sup_Orb-1-R",
+        "size": "388"
+    },
+    "360": {
+        "label": "N_Caudate-7-R",
+        "size": "154"
+    },
+    "361": {
+        "label": "N_Pallidum-1-L",
+        "size": "131"
+    },
+    "362": {
+        "label": "N_Pallidum-1-R",
+        "size": "84"
+    },
+    "363": {
+        "label": "N_Putamen-2-L",
+        "size": "639"
+    },
+    "364": {
+        "label": "N_Putamen-2-R",
+        "size": "625"
+    },
+    "365": {
+        "label": "N_Putamen-3-L",
+        "size": "703"
+    },
+    "366": {
+        "label": "N_Putamen-3-R",
+        "size": "744"
+    },
+    "367": {
+        "label": "N_Thalamus-1-L",
+        "size": "80"
+    },
+    "368": {
+        "label": "N_Thalamus-1-R",
+        "size": "66"
+    },
+    "369": {
+        "label": "N_Thalamus-2-L",
+        "size": "217"
+    },
+    "37": {
+        "label": "G_Frontal_Mid_Orb-1-L",
+        "size": "104"
+    },
+    "370": {
+        "label": "N_Thalamus-2-R",
+        "size": "221"
+    },
+    "371": {
+        "label": "N_Thalamus-3-L",
+        "size": "28"
+    },
+    "372": {
+        "label": "N_Thalamus-3-R",
+        "size": "22"
+    },
+    "373": {
+        "label": "N_Thalamus-4-L",
+        "size": "86"
+    },
+    "374": {
+        "label": "N_Thalamus-4-R",
+        "size": "95"
+    },
+    "375": {
+        "label": "N_Thalamus-5-L",
+        "size": "629"
+    },
+    "376": {
+        "label": "N_Thalamus-5-R",
+        "size": "576"
+    },
+    "377": {
+        "label": "N_Thalamus-6-L",
+        "size": "119"
+    },
+    "378": {
+        "label": "N_Thalamus-6-R",
+        "size": "159"
+    },
+    "379": {
+        "label": "N_Thalamus-7-L",
+        "size": "29"
+    },
+    "38": {
+        "label": "G_Frontal_Mid_Orb-1-R",
+        "size": "175"
+    },
+    "380": {
+        "label": "N_Thalamus-7-R",
+        "size": "36"
+    },
+    "381": {
+        "label": "N_Thalamus-8-L",
+        "size": "43"
+    },
+    "382": {
+        "label": "N_Thalamus-8-R",
+        "size": "29"
+    },
+    "383": {
+        "label": "N_Thalamus-9-L",
+        "size": "275"
+    },
+    "384": {
+        "label": "N_Thalamus-9-R",
+        "size": "218"
+    },
+    "39": {
+        "label": "G_Frontal_Mid_Orb-2-L",
+        "size": "504"
+    },
+    "4": {
+        "label": "G_Frontal_Sup-2-R",
+        "size": "1112"
+    },
+    "40": {
+        "label": "G_Frontal_Mid_Orb-2-R",
+        "size": "358"
+    },
+    "41": {
+        "label": "G_Frontal_Inf_Orb-1-L",
+        "size": "179"
+    },
+    "42": {
+        "label": "G_Frontal_Inf_Orb-1-R",
+        "size": "263"
+    },
+    "43": {
+        "label": "G_Frontal_Inf_Orb-2-L",
+        "size": "556"
+    },
+    "44": {
+        "label": "G_Frontal_Inf_Orb-2-R",
+        "size": "508"
+    },
+    "45": {
+        "label": "S_Orbital-1-L",
+        "size": "277"
+    },
+    "46": {
+        "label": "S_Orbital-1-R",
+        "size": "344"
+    },
+    "47": {
+        "label": "S_Orbital-2-L",
+        "size": "224"
+    },
+    "48": {
+        "label": "S_Orbital-2-R",
+        "size": "242"
+    },
+    "49": {
+        "label": "S_Olfactory-1-L",
+        "size": "469"
+    },
+    "5": {
+        "label": "G_Frontal_Sup-3-L",
+        "size": "56"
+    },
+    "50": {
+        "label": "S_Olfactory-1-R",
+        "size": "476"
+    },
+    "51": {
+        "label": "S_Precentral-1-L",
+        "size": "249"
+    },
+    "52": {
+        "label": "S_Precentral-1-R",
+        "size": "336"
+    },
+    "53": {
+        "label": "S_Precentral-2-L",
+        "size": "306"
+    },
+    "54": {
+        "label": "S_Precentral-2-R",
+        "size": "308"
+    },
+    "55": {
+        "label": "S_Precentral-3-L",
+        "size": "66"
+    },
+    "56": {
+        "label": "S_Precentral-3-R",
+        "size": "39"
+    },
+    "57": {
+        "label": "S_Precentral-4-L",
+        "size": "705"
+    },
+    "58": {
+        "label": "S_Precentral-4-R",
+        "size": "539"
+    },
+    "59": {
+        "label": "S_Precentral-5-L",
+        "size": "145"
+    },
+    "6": {
+        "label": "G_Frontal_Sup-3-R",
+        "size": "90"
+    },
+    "60": {
+        "label": "S_Precentral-5-R",
+        "size": "146"
+    },
+    "61": {
+        "label": "S_Precentral-6-L",
+        "size": "131"
+    },
+    "62": {
+        "label": "S_Precentral-6-R",
+        "size": "118"
+    },
+    "63": {
+        "label": "S_Rolando-1-L",
+        "size": "1166"
+    },
+    "64": {
+        "label": "S_Rolando-1-R",
+        "size": "1100"
+    },
+    "65": {
+        "label": "S_Rolando-2-L",
+        "size": "382"
+    },
+    "66": {
+        "label": "S_Rolando-2-R",
+        "size": "337"
+    },
+    "67": {
+        "label": "S_Rolando-3-L",
+        "size": "1031"
+    },
+    "68": {
+        "label": "S_Rolando-3-R",
+        "size": "1145"
+    },
+    "69": {
+        "label": "S_Rolando-4-L",
+        "size": "1001"
+    },
+    "7": {
+        "label": "S_Sup_Frontal-1-L",
+        "size": "266"
+    },
+    "70": {
+        "label": "S_Rolando-4-R",
+        "size": "729"
+    },
+    "71": {
+        "label": "S_Postcentral-1-L",
+        "size": "193"
+    },
+    "72": {
+        "label": "S_Postcentral-1-R",
+        "size": "233"
+    },
+    "73": {
+        "label": "S_Postcentral-2-L",
+        "size": "526"
+    },
+    "74": {
+        "label": "S_Postcentral-2-R",
+        "size": "755"
+    },
+    "75": {
+        "label": "S_Postcentral-3-L",
+        "size": "565"
+    },
+    "76": {
+        "label": "S_Postcentral-3-R",
+        "size": "144"
+    },
+    "77": {
+        "label": "G_Parietal_Sup-1-L",
+        "size": "60"
+    },
+    "78": {
+        "label": "G_Parietal_Sup-1-R",
+        "size": "116"
+    },
+    "79": {
+        "label": "G_Parietal_Sup-2-L",
+        "size": "188"
+    },
+    "8": {
+        "label": "S_Sup_Frontal-1-R",
+        "size": "619"
+    },
+    "80": {
+        "label": "G_Parietal_Sup-2-R",
+        "size": "216"
+    },
+    "81": {
+        "label": "G_Parietal_Sup-3-L",
+        "size": "252"
+    },
+    "82": {
+        "label": "G_Parietal_Sup-3-R",
+        "size": "142"
+    },
+    "83": {
+        "label": "G_Parietal_Sup-4-L",
+        "size": "205"
+    },
+    "84": {
+        "label": "G_Parietal_Sup-4-R",
+        "size": "278"
+    },
+    "85": {
+        "label": "G_Parietal_Sup-5-L",
+        "size": "434"
+    },
+    "86": {
+        "label": "G_Parietal_Sup-5-R",
+        "size": "259"
+    },
+    "87": {
+        "label": "G_Supramarginal-1-L",
+        "size": "278"
+    },
+    "88": {
+        "label": "G_Supramarginal-1-R",
+        "size": "366"
+    },
+    "89": {
+        "label": "G_SupraMarginal-2-L",
+        "size": "242"
+    },
+    "9": {
+        "label": "S_Sup_Frontal-2-L",
+        "size": "782"
+    },
+    "90": {
+        "label": "G_SupraMarginal-2-R",
+        "size": "347"
+    },
+    "91": {
+        "label": "G_Supramarginal-3-L",
+        "size": "299"
+    },
+    "92": {
+        "label": "G_Supramarginal-3-R",
+        "size": "204"
+    },
+    "93": {
+        "label": "G_Supramarginal-4-L",
+        "size": "320"
+    },
+    "94": {
+        "label": "G_Supramarginal-4-R",
+        "size": "269"
+    },
+    "95": {
+        "label": "G_SupraMarginal-5-L",
+        "size": "106"
+    },
+    "96": {
+        "label": "G_SupraMarginal-5-R",
+        "size": "177"
+    },
+    "97": {
+        "label": "G_SupraMarginal-6-L",
+        "size": "106"
+    },
+    "98": {
+        "label": "G_SupraMarginal-6-R",
+        "size": "132"
+    },
+    "99": {
+        "label": "G_SupraMarginal-7-L",
+        "size": "302"
+    }
+}

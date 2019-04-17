@@ -1,0 +1,308 @@
+{
+    "0": {
+        "label": "empty",
+        "size": "441839"
+    },
+    "1": {
+        "label": "Unknown",
+        "size": "880"
+    },
+    "10": {
+        "label": "G_cingul-Post-dorsal",
+        "size": "348"
+    },
+    "11": {
+        "label": "G_cingul-Post-ventral",
+        "size": "1201"
+    },
+    "12": {
+        "label": "G_cuneus",
+        "size": "1502"
+    },
+    "13": {
+        "label": "G_front_inf-Opercular",
+        "size": "310"
+    },
+    "14": {
+        "label": "G_front_inf-Orbital",
+        "size": "867"
+    },
+    "15": {
+        "label": "G_front_inf-Triangul",
+        "size": "3536"
+    },
+    "16": {
+        "label": "G_front_middle",
+        "size": "7231"
+    },
+    "17": {
+        "label": "G_front_sup",
+        "size": "609"
+    },
+    "18": {
+        "label": "G_Ins_lg_and_S_cent_ins",
+        "size": "837"
+    },
+    "19": {
+        "label": "G_insular_short",
+        "size": "1699"
+    },
+    "2": {
+        "label": "G_and_S_frontomargin",
+        "size": "1029"
+    },
+    "20": {
+        "label": "G_occipital_middle",
+        "size": "1217"
+    },
+    "21": {
+        "label": "G_occipital_sup",
+        "size": "1720"
+    },
+    "22": {
+        "label": "G_oc-temp_lat-fusifor",
+        "size": "2135"
+    },
+    "23": {
+        "label": "G_oc-temp_med-Lingual",
+        "size": "2041"
+    },
+    "24": {
+        "label": "G_oc-temp_med-Parahip",
+        "size": "2865"
+    },
+    "25": {
+        "label": "G_orbital",
+        "size": "2034"
+    },
+    "26": {
+        "label": "G_pariet_inf-Angular",
+        "size": "2480"
+    },
+    "27": {
+        "label": "G_pariet_inf-Supramar",
+        "size": "2098"
+    },
+    "28": {
+        "label": "G_parietal_sup",
+        "size": "2210"
+    },
+    "29": {
+        "label": "G_postcentral",
+        "size": "3297"
+    },
+    "3": {
+        "label": "G_and_S_occipital_inf",
+        "size": "1557"
+    },
+    "30": {
+        "label": "G_precentral",
+        "size": "2250"
+    },
+    "31": {
+        "label": "G_precuneus",
+        "size": "1162"
+    },
+    "32": {
+        "label": "G_rectus",
+        "size": "170"
+    },
+    "33": {
+        "label": "G_subcallosal",
+        "size": "533"
+    },
+    "34": {
+        "label": "G_temp_sup-G_T_transv",
+        "size": "2557"
+    },
+    "35": {
+        "label": "G_temp_sup-Lateral",
+        "size": "629"
+    },
+    "36": {
+        "label": "G_temp_sup-Plan_polar",
+        "size": "723"
+    },
+    "37": {
+        "label": "G_temp_sup-Plan_tempo",
+        "size": "2487"
+    },
+    "38": {
+        "label": "G_temporal_inf",
+        "size": "3026"
+    },
+    "39": {
+        "label": "G_temporal_middle",
+        "size": "183"
+    },
+    "4": {
+        "label": "G_and_S_paracentral",
+        "size": "1429"
+    },
+    "40": {
+        "label": "Lat_Fis-ant-Horizont",
+        "size": "176"
+    },
+    "41": {
+        "label": "Lat_Fis-ant-Vertical",
+        "size": "894"
+    },
+    "42": {
+        "label": "Lat_Fis-post",
+        "size": "1868"
+    },
+    "43": {
+        "label": "Medial_wall",
+        "size": "2019"
+    },
+    "44": {
+        "label": "Pole_occipital",
+        "size": "1327"
+    },
+    "45": {
+        "label": "Pole_temporal",
+        "size": "2130"
+    },
+    "46": {
+        "label": "S_calcarine",
+        "size": "865"
+    },
+    "47": {
+        "label": "S_central",
+        "size": "411"
+    },
+    "48": {
+        "label": "S_cingul-Marginalis",
+        "size": "1188"
+    },
+    "49": {
+        "label": "S_circular_insula_ant",
+        "size": "1097"
+    },
+    "5": {
+        "label": "G_and_S_subcentral",
+        "size": "872"
+    },
+    "50": {
+        "label": "S_circular_insula_inf",
+        "size": "511"
+    },
+    "51": {
+        "label": "S_circular_insula_sup",
+        "size": "142"
+    },
+    "52": {
+        "label": "S_collat_transv_ant",
+        "size": "965"
+    },
+    "53": {
+        "label": "S_collat_transv_post",
+        "size": "764"
+    },
+    "54": {
+        "label": "S_front_inf",
+        "size": "1287"
+    },
+    "55": {
+        "label": "S_front_middle",
+        "size": "150"
+    },
+    "56": {
+        "label": "S_front_sup",
+        "size": "1450"
+    },
+    "57": {
+        "label": "S_interm_prim-Jensen",
+        "size": "417"
+    },
+    "58": {
+        "label": "S_intrapariet_and_P_trans",
+        "size": "660"
+    },
+    "59": {
+        "label": "S_oc_middle_and_Lunatus",
+        "size": "263"
+    },
+    "6": {
+        "label": "G_and_S_transv_frontopol",
+        "size": "1693"
+    },
+    "60": {
+        "label": "S_oc_sup_and_transversal",
+        "size": "355"
+    },
+    "61": {
+        "label": "S_occipital_ant",
+        "size": "1054"
+    },
+    "62": {
+        "label": "S_oc-temp_lat",
+        "size": "168"
+    },
+    "63": {
+        "label": "S_oc-temp_med_and_Lingual",
+        "size": "365"
+    },
+    "64": {
+        "label": "S_orbital_lateral",
+        "size": "740"
+    },
+    "65": {
+        "label": "S_orbital_med-olfact",
+        "size": "1105"
+    },
+    "66": {
+        "label": "S_orbital-H_Shaped",
+        "size": "863"
+    },
+    "67": {
+        "label": "S_parieto_occipital",
+        "size": "1371"
+    },
+    "68": {
+        "label": "S_pericallosal",
+        "size": "872"
+    },
+    "69": {
+        "label": "S_postcentral",
+        "size": "815"
+    },
+    "7": {
+        "label": "G_and_S_cingul-Ant",
+        "size": "1082"
+    },
+    "70": {
+        "label": "S_precentral-inf-part",
+        "size": "363"
+    },
+    "71": {
+        "label": "S_precentral-sup-part",
+        "size": "602"
+    },
+    "72": {
+        "label": "S_suborbital",
+        "size": "427"
+    },
+    "73": {
+        "label": "S_subparietal",
+        "size": "3053"
+    },
+    "74": {
+        "label": "S_temporal_inf",
+        "size": "201"
+    },
+    "75": {
+        "label": "S_temporal_sup"
+    },
+    "76": {
+        "label": "S_temporal_transverse"
+    },
+    "8": {
+        "label": "G_and_S_cingul-Mid-Ant",
+        "size": "1103"
+    },
+    "9": {
+        "label": "G_and_S_cingul-Mid-Post",
+        "size": "714"
+    }
+}

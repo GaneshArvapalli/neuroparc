@@ -1,0 +1,382 @@
+{
+    "1": [
+        {
+            "label": "Unknown"
+        }
+    ],
+    "10": [
+        {
+            "label": "G_cingul-Post-dorsal"
+        }
+    ],
+    "11": [
+        {
+            "label": "G_cingul-Post-ventral"
+        }
+    ],
+    "12": [
+        {
+            "label": "G_cuneus"
+        }
+    ],
+    "13": [
+        {
+            "label": "G_front_inf-Opercular"
+        }
+    ],
+    "14": [
+        {
+            "label": "G_front_inf-Orbital"
+        }
+    ],
+    "15": [
+        {
+            "label": "G_front_inf-Triangul"
+        }
+    ],
+    "16": [
+        {
+            "label": "G_front_middle"
+        }
+    ],
+    "17": [
+        {
+            "label": "G_front_sup"
+        }
+    ],
+    "18": [
+        {
+            "label": "G_Ins_lg_and_S_cent_ins"
+        }
+    ],
+    "19": [
+        {
+            "label": "G_insular_short"
+        }
+    ],
+    "2": [
+        {
+            "label": "G_and_S_frontomargin"
+        }
+    ],
+    "20": [
+        {
+            "label": "G_occipital_middle"
+        }
+    ],
+    "21": [
+        {
+            "label": "G_occipital_sup"
+        }
+    ],
+    "22": [
+        {
+            "label": "G_oc-temp_lat-fusifor"
+        }
+    ],
+    "23": [
+        {
+            "label": "G_oc-temp_med-Lingual"
+        }
+    ],
+    "24": [
+        {
+            "label": "G_oc-temp_med-Parahip"
+        }
+    ],
+    "25": [
+        {
+            "label": "G_orbital"
+        }
+    ],
+    "26": [
+        {
+            "label": "G_pariet_inf-Angular"
+        }
+    ],
+    "27": [
+        {
+            "label": "G_pariet_inf-Supramar"
+        }
+    ],
+    "28": [
+        {
+            "label": "G_parietal_sup"
+        }
+    ],
+    "29": [
+        {
+            "label": "G_postcentral"
+        }
+    ],
+    "3": [
+        {
+            "label": "G_and_S_occipital_inf"
+        }
+    ],
+    "30": [
+        {
+            "label": "G_precentral"
+        }
+    ],
+    "31": [
+        {
+            "label": "G_precuneus"
+        }
+    ],
+    "32": [
+        {
+            "label": "G_rectus"
+        }
+    ],
+    "33": [
+        {
+            "label": "G_subcallosal"
+        }
+    ],
+    "34": [
+        {
+            "label": "G_temp_sup-G_T_transv"
+        }
+    ],
+    "35": [
+        {
+            "label": "G_temp_sup-Lateral"
+        }
+    ],
+    "36": [
+        {
+            "label": "G_temp_sup-Plan_polar"
+        }
+    ],
+    "37": [
+        {
+            "label": "G_temp_sup-Plan_tempo"
+        }
+    ],
+    "38": [
+        {
+            "label": "G_temporal_inf"
+        }
+    ],
+    "39": [
+        {
+            "label": "G_temporal_middle"
+        }
+    ],
+    "4": [
+        {
+            "label": "G_and_S_paracentral"
+        }
+    ],
+    "40": [
+        {
+            "label": "Lat_Fis-ant-Horizont"
+        }
+    ],
+    "41": [
+        {
+            "label": "Lat_Fis-ant-Vertical"
+        }
+    ],
+    "42": [
+        {
+            "label": "Lat_Fis-post"
+        }
+    ],
+    "43": [
+        {
+            "label": "Medial_wall"
+        }
+    ],
+    "44": [
+        {
+            "label": "Pole_occipital"
+        }
+    ],
+    "45": [
+        {
+            "label": "Pole_temporal"
+        }
+    ],
+    "46": [
+        {
+            "label": "S_calcarine"
+        }
+    ],
+    "47": [
+        {
+            "label": "S_central"
+        }
+    ],
+    "48": [
+        {
+            "label": "S_cingul-Marginalis"
+        }
+    ],
+    "49": [
+        {
+            "label": "S_circular_insula_ant"
+        }
+    ],
+    "5": [
+        {
+            "label": "G_and_S_subcentral"
+        }
+    ],
+    "50": [
+        {
+            "label": "S_circular_insula_inf"
+        }
+    ],
+    "51": [
+        {
+            "label": "S_circular_insula_sup"
+        }
+    ],
+    "52": [
+        {
+            "label": "S_collat_transv_ant"
+        }
+    ],
+    "53": [
+        {
+            "label": "S_collat_transv_post"
+        }
+    ],
+    "54": [
+        {
+            "label": "S_front_inf"
+        }
+    ],
+    "55": [
+        {
+            "label": "S_front_middle"
+        }
+    ],
+    "56": [
+        {
+            "label": "S_front_sup"
+        }
+    ],
+    "57": [
+        {
+            "label": "S_interm_prim-Jensen"
+        }
+    ],
+    "58": [
+        {
+            "label": "S_intrapariet_and_P_trans"
+        }
+    ],
+    "59": [
+        {
+            "label": "S_oc_middle_and_Lunatus"
+        }
+    ],
+    "6": [
+        {
+            "label": "G_and_S_transv_frontopol"
+        }
+    ],
+    "60": [
+        {
+            "label": "S_oc_sup_and_transversal"
+        }
+    ],
+    "61": [
+        {
+            "label": "S_occipital_ant"
+        }
+    ],
+    "62": [
+        {
+            "label": "S_oc-temp_lat"
+        }
+    ],
+    "63": [
+        {
+            "label": "S_oc-temp_med_and_Lingual"
+        }
+    ],
+    "64": [
+        {
+            "label": "S_orbital_lateral"
+        }
+    ],
+    "65": [
+        {
+            "label": "S_orbital_med-olfact"
+        }
+    ],
+    "66": [
+        {
+            "label": "S_orbital-H_Shaped"
+        }
+    ],
+    "67": [
+        {
+            "label": "S_parieto_occipital"
+        }
+    ],
+    "68": [
+        {
+            "label": "S_pericallosal"
+        }
+    ],
+    "69": [
+        {
+            "label": "S_postcentral"
+        }
+    ],
+    "7": [
+        {
+            "label": "G_and_S_cingul-Ant"
+        }
+    ],
+    "70": [
+        {
+            "label": "S_precentral-inf-part"
+        }
+    ],
+    "71": [
+        {
+            "label": "S_precentral-sup-part"
+        }
+    ],
+    "72": [
+        {
+            "label": "S_suborbital"
+        }
+    ],
+    "73": [
+        {
+            "label": "S_subparietal"
+        }
+    ],
+    "74": [
+        {
+            "label": "S_temporal_inf"
+        }
+    ],
+    "75": [
+        {
+            "label": "S_temporal_sup"
+        }
+    ],
+    "76": [
+        {
+            "label": "S_temporal_transverse"
+        }
+    ],
+    "8": [
+        {
+            "label": "G_and_S_cingul-Mid-Ant"
+        }
+    ],
+    "9": [
+        {
+            "label": "G_and_S_cingul-Mid-Post"
+        }
+    ]
+}

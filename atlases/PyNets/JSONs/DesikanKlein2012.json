@@ -1,0 +1,191 @@
+{
+    "0": {
+        "label": "empty"
+    },
+    "1": {
+        "label": "left_caudal_anterior_cingulate"
+    },
+    "10": {
+        "label": "left_lateral_orbitofrontal"
+    },
+    "11": {
+        "label": "left_lingual"
+    },
+    "12": {
+        "label": "left_medial_orbitofrontal"
+    },
+    "13": {
+        "label": "left_middle_temporal"
+    },
+    "14": {
+        "label": "left_parahippocampal"
+    },
+    "15": {
+        "label": "left_paracentral"
+    },
+    "16": {
+        "label": "left_pars_opercularis"
+    },
+    "17": {
+        "label": "left_pars_orbitalis"
+    },
+    "18": {
+        "label": "left_pars_triangularis"
+    },
+    "19": {
+        "label": "left_pericalcarine"
+    },
+    "2": {
+        "label": "left_caudal_middle_frontal"
+    },
+    "20": {
+        "label": "left_postcentral"
+    },
+    "21": {
+        "label": "left_posterior_cingulate"
+    },
+    "22": {
+        "label": "left_precentral"
+    },
+    "23": {
+        "label": "left_precuneus"
+    },
+    "24": {
+        "label": "left_rostral_anterior_cingulate"
+    },
+    "25": {
+        "label": "left_rostral_middle_frontal"
+    },
+    "26": {
+        "label": "left_superior_frontal"
+    },
+    "27": {
+        "label": "left_superior_parietal"
+    },
+    "28": {
+        "label": "left_superior_temporal"
+    },
+    "29": {
+        "label": "left_supramarginal"
+    },
+    "3": {
+        "label": "left_cuneus"
+    },
+    "30": {
+        "label": "left_transverse_temporal"
+    },
+    "31": {
+        "label": "left_insula"
+    },
+    "32": {
+        "label": "right_caudal_anterior_cingulate"
+    },
+    "33": {
+        "label": "right_caudal_middle_frontal"
+    },
+    "34": {
+        "label": "right_cuneus"
+    },
+    "35": {
+        "label": "right_entorhinal"
+    },
+    "36": {
+        "label": "right_fusiform"
+    },
+    "37": {
+        "label": "right_inferior_parietal"
+    },
+    "38": {
+        "label": "right_inferior_temporal"
+    },
+    "39": {
+        "label": "right_isthmus_cingulate"
+    },
+    "4": {
+        "label": "left_entorhinal"
+    },
+    "40": {
+        "label": "right_lateral_occipital"
+    },
+    "41": {
+        "label": "right_lateral_orbitofrontal"
+    },
+    "42": {
+        "label": "right_lingual"
+    },
+    "43": {
+        "label": "right_medial_orbitofrontal"
+    },
+    "44": {
+        "label": "right_middle_temporal"
+    },
+    "45": {
+        "label": "right_parahippocampal"
+    },
+    "46": {
+        "label": "right_paracentral"
+    },
+    "47": {
+        "label": "right_pars_opercularis"
+    },
+    "48": {
+        "label": "right_pars_orbitalis"
+    },
+    "49": {
+        "label": "right_pars_triangularis"
+    },
+    "5": {
+        "label": "left_fusiform"
+    },
+    "50": {
+        "label": "right_pericalcarine"
+    },
+    "51": {
+        "label": "right_postcentral"
+    },
+    "52": {
+        "label": "right_posterior_cingulate"
+    },
+    "53": {
+        "label": "right_precentral"
+    },
+    "54": {
+        "label": "right_precuneus"
+    },
+    "55": {
+        "label": "right_rostral_anterior_cingulate"
+    },
+    "56": {
+        "label": "right_rostral_middle_frontal"
+    },
+    "57": {
+        "label": "right_superior_frontal"
+    },
+    "58": {
+        "label": "right_superior_parietal"
+    },
+    "59": {
+        "label": "right_superior_temporal"
+    },
+    "6": {
+        "label": "left_inferior_parietal"
+    },
+    "60": {
+        "label": "right_supramarginal"
+    },
+    "61": {
+        "label": "right_transverse_temporal"
+    },
+    "62": {
+        "label": "right_insula"
+    },
+    "7": {
+        "label": "left_inferior_temporal"
+    },
+    "8": {
+        "label": "left_isthmus_cingulate"
+    },
+    "9": {
+        "label": "left_lateral_occipital"
+    }
+}

@@ -1,0 +1,550 @@
+{
+    "0": {
+        "label": "empty",
+        "size": "1629088"
+    },
+    "1": {
+        "label": "3rd_Ventricle",
+        "size": "290"
+    },
+    "10": {
+        "label": "Right_Cerebellum_Exterior",
+        "size": "20279"
+    },
+    "100": {
+        "label": "Left_PCu_precuneus",
+        "size": "5032"
+    },
+    "101": {
+        "label": "Right_PHG_parahippocampal_gyrus",
+        "size": "1074"
+    },
+    "102": {
+        "label": "Left_PHG_parahippocampal_gyrus",
+        "size": "1190"
+    },
+    "103": {
+        "label": "Right_PIns_posterior_insula",
+        "size": "974"
+    },
+    "104": {
+        "label": "Left_PIns_posterior_insula",
+        "size": "948"
+    },
+    "105": {
+        "label": "Right_PO_parietal_operculum",
+        "size": "957"
+    },
+    "106": {
+        "label": "Left_PO_parietal_operculum",
+        "size": "1080"
+    },
+    "107": {
+        "label": "Right_PoG_postcentral_gyrus",
+        "size": "4755"
+    },
+    "108": {
+        "label": "Left_PoG_postcentral_gyrus",
+        "size": "5425"
+    },
+    "109": {
+        "label": "Right_POrG_posterior_orbital_gyrus",
+        "size": "1004"
+    },
+    "11": {
+        "label": "Left_Cerebellum_Exterior",
+        "size": "20489"
+    },
+    "110": {
+        "label": "Left_POrG_posterior_orbital_gyrus",
+        "size": "1102"
+    },
+    "111": {
+        "label": "Right_PP_planum_polare",
+        "size": "782"
+    },
+    "112": {
+        "label": "Left_PP_planum_polare",
+        "size": "892"
+    },
+    "113": {
+        "label": "Right_PrG_precentral_gyrus",
+        "size": "5987"
+    },
+    "114": {
+        "label": "Left_PrG_precentral_gyrus",
+        "size": "6010"
+    },
+    "115": {
+        "label": "Right_PT_planum_temporale",
+        "size": "793"
+    },
+    "116": {
+        "label": "Left_PT_planum_temporale",
+        "size": "894"
+    },
+    "117": {
+        "label": "Right_SCA_subcallosal_area",
+        "size": "484"
+    },
+    "118": {
+        "label": "Left_SCA_subcallosal_area",
+        "size": "480"
+    },
+    "119": {
+        "label": "Right_SFG_superior_frontal_gyrus",
+        "size": "6860"
+    },
+    "12": {
+        "label": "Right_Cerebellum_White_Matter",
+        "size": "4846"
+    },
+    "120": {
+        "label": "Left_SFG_superior_frontal_gyrus",
+        "size": "6829"
+    },
+    "121": {
+        "label": "Right_SMC_supplementary_motor_cortex",
+        "size": "2326"
+    },
+    "122": {
+        "label": "Left_SMC_supplementary_motor_cortex",
+        "size": "2412"
+    },
+    "123": {
+        "label": "Right_SMG_supramarginal_gyrus",
+        "size": "3800"
+    },
+    "124": {
+        "label": "Left_SMG_supramarginal_gyrus",
+        "size": "4005"
+    },
+    "125": {
+        "label": "Right_SOG_superior_occipital_gyrus",
+        "size": "1709"
+    },
+    "126": {
+        "label": "Left_SOG_superior_occipital_gyrus",
+        "size": "1443"
+    },
+    "127": {
+        "label": "Right_SPL_superior_parietal_lobule",
+        "size": "5248"
+    },
+    "128": {
+        "label": "Left_SPL_superior_parietal_lobule",
+        "size": "5224"
+    },
+    "129": {
+        "label": "Right_STG_superior_temporal_gyrus",
+        "size": "3118"
+    },
+    "13": {
+        "label": "Left_Cerebellum_White_Matter",
+        "size": "4947"
+    },
+    "130": {
+        "label": "Left_STG_superior_temporal_gyrus",
+        "size": "2960"
+    },
+    "131": {
+        "label": "Right_TMP_temporal_pole",
+        "size": "3576"
+    },
+    "132": {
+        "label": "Left_TMP_temporal_pole",
+        "size": "3551"
+    },
+    "133": {
+        "label": "Right_TrIFG_triangular_part_of_the_inferior_frontal_gyrus",
+        "size": "1400"
+    },
+    "134": {
+        "label": "Left_TrIFG_triangular_part_of_the_inferior_frontal_gyrus",
+        "size": "1497"
+    },
+    "135": {
+        "label": "Right_TTG_transverse_temporal_gyrus",
+        "size": "645"
+    },
+    "136": {
+        "label": "Left_TTG_transverse_temporal_gyrus",
+        "size": "675"
+    },
+    "14": {
+        "label": "Right_Cerebral_White_Matter",
+        "size": "82777"
+    },
+    "15": {
+        "label": "Left_Cerebral_White_Matter",
+        "size": "82008"
+    },
+    "16": {
+        "label": "CSF",
+        "size": "400"
+    },
+    "17": {
+        "label": "Right_Hippocampus",
+        "size": "1456"
+    },
+    "18": {
+        "label": "Left_Hippocampus",
+        "size": "1358"
+    },
+    "19": {
+        "label": "Right_Inf_Lat_Vent",
+        "size": "92"
+    },
+    "2": {
+        "label": "4th_Ventricle",
+        "size": "670"
+    },
+    "20": {
+        "label": "Left_Inf_Lat_Vent",
+        "size": "56"
+    },
+    "21": {
+        "label": "Right_Lateral_Ventricle",
+        "size": "3187"
+    },
+    "22": {
+        "label": "Left_Lateral_Ventricle",
+        "size": "3807"
+    },
+    "23": {
+        "label": "Right_Pallidum",
+        "size": "563"
+    },
+    "24": {
+        "label": "Left_Pallidum",
+        "size": "558"
+    },
+    "25": {
+        "label": "Right_Putamen",
+        "size": "1668"
+    },
+    "26": {
+        "label": "Left_Putamen",
+        "size": "1729"
+    },
+    "27": {
+        "label": "Right_Thalamus_Proper",
+        "size": "2989"
+    },
+    "28": {
+        "label": "Left_Thalamus_Proper",
+        "size": "3146"
+    },
+    "29": {
+        "label": "Right_Ventral_DC",
+        "size": "1844"
+    },
+    "3": {
+        "label": "Right_Accumbens_Area",
+        "size": "171"
+    },
+    "30": {
+        "label": "Left_Ventral_DC",
+        "size": "1965"
+    },
+    "31": {
+        "label": "Right_vessel",
+        "size": "0"
+    },
+    "32": {
+        "label": "Left_vessel",
+        "size": "3"
+    },
+    "33": {
+        "label": "Optic_Chiasm",
+        "size": "21"
+    },
+    "34": {
+        "label": "Cerebellar_Vermal_Lobules_I-V",
+        "size": "1914"
+    },
+    "35": {
+        "label": "Cerebellar_Vermal_Lobules_VI-VII",
+        "size": "874"
+    },
+    "36": {
+        "label": "Cerebellar_Vermal_Lobules_VIII-X",
+        "size": "1117"
+    },
+    "37": {
+        "label": "Left_Basal_Forebrain",
+        "size": "148"
+    },
+    "38": {
+        "label": "Right_Basal_Forebrain",
+        "size": "136"
+    },
+    "39": {
+        "label": "Right_ACgG_anterior_cingulate_gyrus",
+        "size": "1779"
+    },
+    "4": {
+        "label": "Left_Accumbens_Area",
+        "size": "190"
+    },
+    "40": {
+        "label": "Left_ACgG_anterior_cingulate_gyrus",
+        "size": "2220"
+    },
+    "41": {
+        "label": "Right_AIns_anterior_insula",
+        "size": "1777"
+    },
+    "42": {
+        "label": "Left_AIns_anterior_insula",
+        "size": "1817"
+    },
+    "43": {
+        "label": "Right_AOrG_anterior_orbital_gyrus",
+        "size": "757"
+    },
+    "44": {
+        "label": "Left_AOrG_anterior_orbital_gyrus",
+        "size": "676"
+    },
+    "45": {
+        "label": "Right_AnG_angular_gyrus",
+        "size": "4729"
+    },
+    "46": {
+        "label": "Left_AnG_angular_gyrus",
+        "size": "4125"
+    },
+    "47": {
+        "label": "Right_Calc_calcarine_cortex",
+        "size": "1451"
+    },
+    "48": {
+        "label": "Left_Calc_calcarine_cortex",
+        "size": "1613"
+    },
+    "49": {
+        "label": "Right_CO_central_operculum",
+        "size": "1773"
+    },
+    "5": {
+        "label": "Right_Amygdala",
+        "size": "373"
+    },
+    "50": {
+        "label": "Left_CO_central_operculum",
+        "size": "1738"
+    },
+    "51": {
+        "label": "Right_Cun_cuneus",
+        "size": "2079"
+    },
+    "52": {
+        "label": "Left_Cun_cuneus",
+        "size": "2033"
+    },
+    "53": {
+        "label": "Right_Ent_entorhinal_area",
+        "size": "665"
+    },
+    "54": {
+        "label": "Left_Ent_entorhinal_area",
+        "size": "688"
+    },
+    "55": {
+        "label": "Right_FO_frontal_operculum",
+        "size": "854"
+    },
+    "56": {
+        "label": "Left_FO_frontal_operculum",
+        "size": "853"
+    },
+    "57": {
+        "label": "Right_FRP_frontal_pole",
+        "size": "1594"
+    },
+    "58": {
+        "label": "Left_FRP_frontal_pole",
+        "size": "1402"
+    },
+    "59": {
+        "label": "Right_FuG_fusiform_gyrus",
+        "size": "3229"
+    },
+    "6": {
+        "label": "Left_Amygdala",
+        "size": "374"
+    },
+    "60": {
+        "label": "Left_FuG_fusiform_gyrus",
+        "size": "3138"
+    },
+    "61": {
+        "label": "Right_GRe_gyrus_rectus",
+        "size": "929"
+    },
+    "62": {
+        "label": "Left_GRe_gyrus_rectus",
+        "size": "1049"
+    },
+    "63": {
+        "label": "Right_IOG_inferior_occipital_gyrus",
+        "size": "2621"
+    },
+    "64": {
+        "label": "Left_IOG_inferior_occipital_gyrus",
+        "size": "2748"
+    },
+    "65": {
+        "label": "Right_ITG_inferior_temporal_gyrus",
+        "size": "4987"
+    },
+    "66": {
+        "label": "Left_ITG_inferior_temporal_gyrus",
+        "size": "4922"
+    },
+    "67": {
+        "label": "Right_LiG_lingual_gyrus",
+        "size": "3423"
+    },
+    "68": {
+        "label": "Left_LiG_lingual_gyrus",
+        "size": "3201"
+    },
+    "69": {
+        "label": "Right_LOrG_lateral_orbital_gyrus",
+        "size": "856"
+    },
+    "7": {
+        "label": "Brain_Stem",
+        "size": "6923"
+    },
+    "70": {
+        "label": "Left_LOrG_lateral_orbital_gyrus",
+        "size": "854"
+    },
+    "71": {
+        "label": "Right_MCgG_middle_cingulate_gyrus",
+        "size": "2058"
+    },
+    "72": {
+        "label": "Left_MCgG_middle_cingulate_gyrus",
+        "size": "2129"
+    },
+    "73": {
+        "label": "Right_MFC_medial_frontal_cortex",
+        "size": "799"
+    },
+    "74": {
+        "label": "Left_MFC_medial_frontal_cortex",
+        "size": "784"
+    },
+    "75": {
+        "label": "Right_MFG_middle_frontal_gyrus",
+        "size": "9309"
+    },
+    "76": {
+        "label": "Left_MFG_middle_frontal_gyrus",
+        "size": "9374"
+    },
+    "77": {
+        "label": "Right_MOG_middle_occipital_gyrus",
+        "size": "2262"
+    },
+    "78": {
+        "label": "Left_MOG_middle_occipital_gyrus",
+        "size": "2658"
+    },
+    "79": {
+        "label": "Right_MOrG_medial_orbital_gyrus",
+        "size": "1780"
+    },
+    "8": {
+        "label": "Right_Caudate",
+        "size": "1291"
+    },
+    "80": {
+        "label": "Left_MOrG_medial_orbital_gyrus",
+        "size": "1797"
+    },
+    "81": {
+        "label": "Right_MPoG_postcentral_gyrus_medial_segment",
+        "size": "311"
+    },
+    "82": {
+        "label": "Left_MPoG_postcentral_gyrus_medial_segment",
+        "size": "375"
+    },
+    "83": {
+        "label": "Right_MPrG_precentral_gyrus_medial_segment",
+        "size": "1181"
+    },
+    "84": {
+        "label": "Left_MPrG_precentral_gyrus_medial_segment",
+        "size": "1246"
+    },
+    "85": {
+        "label": "Right_MSFG_superior_frontal_gyrus_medial_segment",
+        "size": "3554"
+    },
+    "86": {
+        "label": "Left_MSFG_superior_frontal_gyrus_medial_segment",
+        "size": "2997"
+    },
+    "87": {
+        "label": "Right_MTG_middle_temporal_gyrus",
+        "size": "6492"
+    },
+    "88": {
+        "label": "Left_MTG_middle_temporal_gyrus",
+        "size": "6411"
+    },
+    "89": {
+        "label": "Right_OCP_occipital_pole",
+        "size": "1316"
+    },
+    "9": {
+        "label": "Left_Caudate",
+        "size": "1259"
+    },
+    "90": {
+        "label": "Left_OCP_occipital_pole",
+        "size": "1437"
+    },
+    "91": {
+        "label": "Right_OFuG_occipital_fusiform_gyrus",
+        "size": "1519"
+    },
+    "92": {
+        "label": "Left_OFuG_occipital_fusiform_gyrus",
+        "size": "1634"
+    },
+    "93": {
+        "label": "Right_OpIFG_opercular_part_of_the_inferior_frontal_gyrus",
+        "size": "1459"
+    },
+    "94": {
+        "label": "Left_OpIFG_opercular_part_of_the_inferior_frontal_gyrus",
+        "size": "1416"
+    },
+    "95": {
+        "label": "Right_OrIFG_orbital_part_of_the_inferior_frontal_gyrus",
+        "size": "595"
+    },
+    "96": {
+        "label": "Left_OrIFG_orbital_part_of_the_inferior_frontal_gyrus",
+        "size": "596"
+    },
+    "97": {
+        "label": "Right_PCgG_posterior_cingulate_gyrus",
+        "size": "1647"
+    },
+    "98": {
+        "label": "Left_PCgG_posterior_cingulate_gyrus",
+        "size": "1876"
+    },
+    "99": {
+        "label": "Right_PCu_precuneus",
+        "size": "5069"
+    }
+}
