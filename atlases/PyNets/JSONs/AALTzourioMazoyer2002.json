@@ -1,470 +1,801 @@
 {
-    "0": {
-        "label": "empty",
-        "size": "717223"
-    },
-    "1": {
-        "label": "Precentral_L",
-        "size": "3525"
-    },
-    "10": {
-        "label": "Frontal_Mid_Orb_R",
-        "size": "1014"
-    },
-    "100": {
-        "label": "Cerebelum_6_R",
-        "size": "1794"
-    },
-    "101": {
-        "label": "Cerebelum_7b_L",
-        "size": "584"
-    },
-    "102": {
-        "label": "Cerebelum_7b_R",
-        "size": "533"
-    },
-    "103": {
-        "label": "Cerebelum_8_L",
-        "size": "1886"
-    },
-    "104": {
-        "label": "Cerebelum_8_R",
-        "size": "2307"
-    },
-    "105": {
-        "label": "Cerebelum_9_L",
-        "size": "868"
-    },
-    "106": {
-        "label": "Cerebelum_9_R",
-        "size": "808"
-    },
-    "107": {
-        "label": "Cerebelum_10_L",
-        "size": "143"
-    },
-    "108": {
-        "label": "Cerebelum_10_R",
-        "size": "158"
-    },
-    "109": {
-        "label": "Vermis_1_2",
-        "size": "52"
-    },
-    "11": {
-        "label": "Frontal_Inf_Oper_L",
-        "size": "1037"
-    },
-    "110": {
-        "label": "Vermis_3",
-        "size": "227"
-    },
-    "111": {
-        "label": "Vermis_4_5",
-        "size": "664"
-    },
-    "112": {
-        "label": "Vermis_6",
-        "size": "370"
-    },
-    "113": {
-        "label": "Vermis_7",
-        "size": "193"
-    },
-    "114": {
-        "label": "Vermis_8",
-        "size": "242"
-    },
-    "115": {
-        "label": "Vermis_9",
-        "size": "173"
-    },
-    "116": {
-        "label": "Vermis_10",
-        "size": "111"
-    },
-    "12": {
-        "label": "Frontal_Inf_Oper_R",
-        "size": "1398"
-    },
-    "13": {
-        "label": "Frontal_Inf_Tri_L",
-        "size": "2528"
-    },
     "14": {
         "label": "Frontal_Inf_Tri_R",
-        "size": "2150"
+        "size": "2150",
+        "center": [
+            50.061366806136675,
+            28.901906090190607,
+            12.817294281729431
+        ]
     },
-    "15": {
-        "label": "Frontal_Inf_Orb_L",
-        "size": "1689"
-    },
-    "16": {
-        "label": "Frontal_Inf_Orb_R",
-        "size": "1706"
-    },
-    "17": {
-        "label": "Rolandic_Oper_L",
-        "size": "989"
-    },
-    "18": {
-        "label": "Rolandic_Oper_R",
-        "size": "1330"
-    },
-    "19": {
-        "label": "Supp_Motor_Area_L",
-        "size": "2146"
-    },
-    "2": {
-        "label": "Precentral_R",
-        "size": "3380"
-    },
-    "20": {
-        "label": "Supp_Motor_Area_R",
-        "size": "2370"
-    },
-    "21": {
-        "label": "Olfactory_L",
-        "size": "279"
-    },
-    "22": {
-        "label": "Olfactory_R",
-        "size": "288"
-    },
-    "23": {
-        "label": "Frontal_Sup_Medial_L",
-        "size": "2991"
-    },
-    "24": {
-        "label": "Frontal_Sup_Medial_R",
-        "size": "2133"
-    },
-    "25": {
-        "label": "Frontal_Med_Orb_L",
-        "size": "718"
-    },
-    "26": {
-        "label": "Frontal_Med_Orb_R",
-        "size": "855"
-    },
-    "27": {
-        "label": "Rectus_L",
-        "size": "851"
-    },
-    "28": {
-        "label": "Rectus_R",
-        "size": "744"
-    },
-    "29": {
-        "label": "Insula_L",
-        "size": "1857"
-    },
-    "3": {
-        "label": "Frontal_Sup_L",
-        "size": "3598"
-    },
-    "30": {
-        "label": "Insula_R",
-        "size": "1769"
-    },
-    "31": {
-        "label": "Cingulum_Ant_L",
-        "size": "1399"
-    },
-    "32": {
-        "label": "Cingulum_Ant_R",
-        "size": "1312"
-    },
-    "33": {
-        "label": "Cingulum_Mid_L",
-        "size": "1940"
-    },
-    "34": {
-        "label": "Cingulum_Mid_R",
-        "size": "2202"
-    },
-    "35": {
-        "label": "Cingulum_Post_L",
-        "size": "462"
-    },
-    "36": {
-        "label": "Cingulum_Post_R",
-        "size": "334"
-    },
-    "37": {
-        "label": "Hippocampus_L",
-        "size": "931"
-    },
-    "38": {
-        "label": "Hippocampus_R",
-        "size": "945"
+    "44": {
+        "label": "Calcarine_R",
+        "size": "1860",
+        "center": [
+            15.709833422890924,
+            -74.44922084900591,
+            8.019344438473937
+        ]
     },
     "39": {
         "label": "ParaHippocampal_L",
-        "size": "977"
+        "size": "977",
+        "center": [
+            -21.492842535787318,
+            -17.29243353783231,
+            -21.918200408997954
+        ]
+    },
+    "107": {
+        "label": "Cerebelum_10_L",
+        "size": "143",
+        "center": [
+            -21.79166666666667,
+            -35.0,
+            -43.06944444444444
+        ]
+    },
+    "26": {
+        "label": "Frontal_Med_Orb_R",
+        "size": "855",
+        "center": [
+            7.834112149532714,
+            50.406542056074755,
+            -8.516355140186917
+        ]
+    },
+    "64": {
+        "label": "SupraMarginal_R",
+        "size": "1973",
+        "center": [
+            57.27116066903193,
+            -32.82209832742018,
+            33.13228585909782
+        ]
+    },
+    "72": {
+        "label": "Caudate_R",
+        "size": "993",
+        "center": [
+            14.494969818913475,
+            10.776659959758547,
+            8.148893360160969
+        ]
+    },
+    "55": {
+        "label": "Fusiform_L",
+        "size": "2309",
+        "center": [
+            -31.39514731369151,
+            -41.36221837088388,
+            -21.61525129982669
+        ]
+    },
+    "82": {
+        "label": "Temporal_Sup_R",
+        "size": "3140",
+        "center": [
+            57.83253740846865,
+            -23.01050620821394,
+            5.418656478828396
+        ]
+    },
+    "71": {
+        "label": "Caudate_L",
+        "size": "961",
+        "center": [
+            -11.767151767151773,
+            9.723492723492711,
+            8.070686070686065
+        ]
+    },
+    "66": {
+        "label": "Angular_R",
+        "size": "1751",
+        "center": [
+            45.22831050228311,
+            -61.23858447488584,
+            37.31506849315069
+        ]
+    },
+    "20": {
+        "label": "Supp_Motor_Area_R",
+        "size": "2370",
+        "center": [
+            8.246309574019406,
+            -1.0932096161956935,
+            60.512863770560955
+        ]
+    },
+    "46": {
+        "label": "Cuneus_R",
+        "size": "1423",
+        "center": [
+            13.122881355932208,
+            -80.70621468926554,
+            26.871468926553675
+        ]
+    },
+    "98": {
+        "label": "Cerebelum_4_5_R",
+        "size": "860",
+        "center": [
+            17.888501742160273,
+            -44.16492450638792,
+            -19.354239256678284
+        ]
+    },
+    "21": {
+        "label": "Olfactory_L",
+        "size": "279",
+        "center": [
+            -8.26428571428572,
+            13.8642857142857,
+            -12.685714285714283
+        ]
+    },
+    "74": {
+        "label": "Putamen_R",
+        "size": "1063",
+        "center": [
+            27.484962406015043,
+            3.6785714285714164,
+            1.1936090225563873
+        ]
+    },
+    "102": {
+        "label": "Cerebelum_7b_R",
+        "size": "533",
+        "center": [
+            33.928838951310865,
+            -64.40823970037454,
+            -49.760299625468164
+        ]
+    },
+    "106": {
+        "label": "Cerebelum_9_R",
+        "size": "808",
+        "center": [
+            10.190358467243513,
+            -50.75154511742892,
+            -47.62422744128554
+        ]
+    },
+    "25": {
+        "label": "Frontal_Med_Orb_L",
+        "size": "718",
+        "center": [
+            -5.438108484005568,
+            52.51738525730181,
+            -8.856745479833101
+        ]
+    },
+    "114": {
+        "label": "Vermis_8",
+        "size": "242",
+        "center": [
+            1.8106995884773625,
+            -65.65432098765433,
+            -35.34979423868313
+        ]
+    },
+    "76": {
+        "label": "Pallidum_R",
+        "size": "279",
+        "center": [
+            20.921428571428578,
+            -1.0571428571428498,
+            -1.085714285714289
+        ]
+    },
+    "58": {
+        "label": "Postcentral_R",
+        "size": "3822",
+        "center": [
+            41.15825268114045,
+            -26.772691603452785,
+            51.25398901386346
+        ]
+    },
+    "5": {
+        "label": "Frontal_Sup_Orb_L",
+        "size": "962",
+        "center": [
+            -16.824506749740394,
+            45.919003115264786,
+            -14.718587746625133
+        ]
+    },
+    "3": {
+        "label": "Frontal_Sup_L",
+        "size": "3598",
+        "center": [
+            -18.79777158774374,
+            33.417827298050156,
+            40.99442896935933
+        ]
+    },
+    "30": {
+        "label": "Insula_R",
+        "size": "1769",
+        "center": [
+            38.721311475409834,
+            5.027699265121555,
+            0.8015828151497999
+        ]
+    },
+    "108": {
+        "label": "Cerebelum_10_R",
+        "size": "158",
+        "center": [
+            26.80503144654088,
+            -35.01886792452831,
+            -42.64150943396226
+        ]
+    },
+    "10": {
+        "label": "Frontal_Mid_Orb_R",
+        "size": "1014",
+        "center": [
+            32.894581280788174,
+            51.27487684729064,
+            -12.141871921182265
+        ]
+    },
+    "56": {
+        "label": "Fusiform_R",
+        "size": "2517",
+        "center": [
+            33.6637519872814,
+            -40.16057233704292,
+            -21.546899841017492
+        ]
+    },
+    "99": {
+        "label": "Cerebelum_6_L",
+        "size": "1693",
+        "center": [
+            -22.525383707201883,
+            -60.25855962219599,
+            -23.480519480519476
+        ]
+    },
+    "27": {
+        "label": "Rectus_L",
+        "size": "851",
+        "center": [
+            -5.441314553990608,
+            35.706572769953056,
+            -19.568075117370896
+        ]
+    },
+    "62": {
+        "label": "Parietal_Inf_R",
+        "size": "1344",
+        "center": [
+            46.291449814126395,
+            -47.58810408921933,
+            48.19182156133829
+        ]
+    },
+    "77": {
+        "label": "Thalamus_L",
+        "size": "1099",
+        "center": [
+            -11.198181818181823,
+            -18.843636363636364,
+            6.607272727272729
+        ]
+    },
+    "94": {
+        "label": "Cerebelum_Crus2_R",
+        "size": "2116",
+        "center": [
+            32.673594709494566,
+            -70.39678790741615,
+            -41.201700519603214
+        ]
+    },
+    "2": {
+        "label": "Precentral_R",
+        "size": "3380",
+        "center": [
+            41.10085773439812,
+            -9.549837326234837,
+            50.80981958000592
+        ]
+    },
+    "45": {
+        "label": "Cuneus_L",
+        "size": "1525",
+        "center": [
+            -6.264299802761343,
+            -81.36226166995398,
+            25.90401051939513
+        ]
+    },
+    "91": {
+        "label": "Cerebelum_Crus1_L",
+        "size": "2602",
+        "center": [
+            -35.38532462543219,
+            -67.94314252785247,
+            -30.262773722627735
+        ]
+    },
+    "34": {
+        "label": "Cingulum_Mid_R",
+        "size": "2202",
+        "center": [
+            7.664094416704501,
+            -10.197004085338165,
+            38.43758511121199
+        ]
+    },
+    "41": {
+        "label": "Amygdala_L",
+        "size": "219",
+        "center": [
+            -23.509090909090915,
+            -1.9454545454545382,
+            -18.454545454545453
+        ]
+    },
+    "51": {
+        "label": "Occipital_Mid_L",
+        "size": "3269",
+        "center": [
+            -32.639288997854734,
+            -81.9938706711615,
+            14.788844621513945
+        ]
+    },
+    "50": {
+        "label": "Occipital_Sup_R",
+        "size": "1412",
+        "center": [
+            23.963172804532576,
+            -82.20396600566572,
+            29.284702549575073
+        ]
+    },
+    "83": {
+        "label": "Temporal_Pole_Sup_L",
+        "size": "1284",
+        "center": [
+            -40.15408560311284,
+            13.867704280155635,
+            -21.436575875486383
+        ]
+    },
+    "68": {
+        "label": "Precuneus_R",
+        "size": "3264",
+        "center": [
+            9.684436274509807,
+            -57.31188725490196,
+            42.36519607843138
+        ]
+    },
+    "93": {
+        "label": "Cerebelum_Crus2_L",
+        "size": "1893",
+        "center": [
+            -27.768743400211193,
+            -74.57972544878564,
+            -39.44350580781415
+        ]
+    },
+    "112": {
+        "label": "Vermis_6",
+        "size": "370",
+        "center": [
+            1.7681940700808667,
+            -68.35040431266846,
+            -16.39353099730458
+        ]
+    },
+    "54": {
+        "label": "Occipital_Inf_R",
+        "size": "988",
+        "center": [
+            37.87057633973711,
+            -83.19110212335693,
+            -8.99292214357937
+        ]
+    },
+    "87": {
+        "label": "Temporal_Pole_Mid_L",
+        "size": "754",
+        "center": [
+            -36.602666666666664,
+            13.354666666666674,
+            -35.40533333333333
+        ]
+    },
+    "29": {
+        "label": "Insula_L",
+        "size": "1857",
+        "center": [
+            -35.410118406889126,
+            5.440258342303537,
+            2.1722282023681316
+        ]
+    },
+    "38": {
+        "label": "Hippocampus_R",
+        "size": "945",
+        "center": [
+            28.945031712473565,
+            -20.991543340380545,
+            -11.577167019027485
+        ]
+    },
+    "90": {
+        "label": "Temporal_Inf_R",
+        "size": "3556",
+        "center": [
+            53.37158931082982,
+            -32.134458509142064,
+            -23.737834036568216
+        ]
+    },
+    "69": {
+        "label": "Paracentral_Lobule_L",
+        "size": "1348",
+        "center": [
+            -7.974796145292814,
+            -26.650852483320975,
+            68.6923647146034
+        ]
+    },
+    "84": {
+        "label": "Temporal_Pole_Sup_R",
+        "size": "1337",
+        "center": [
+            47.937219730941706,
+            13.45739910313901,
+            -18.1898355754858
+        ]
+    },
+    "18": {
+        "label": "Rolandic_Oper_R",
+        "size": "1330",
+        "center": [
+            52.381667918858,
+            -7.537190082644628,
+            13.32982719759579
+        ]
+    },
+    "42": {
+        "label": "Amygdala_R",
+        "size": "247",
+        "center": [
+            27.05645161290323,
+            -0.5725806451612954,
+            -18.806451612903224
+        ]
+    },
+    "15": {
+        "label": "Frontal_Inf_Orb_L",
+        "size": "1689",
+        "center": [
+            -36.24023668639053,
+            29.49230769230769,
+            -13.459171597633137
+        ]
+    },
+    "31": {
+        "label": "Cingulum_Ant_L",
+        "size": "1399",
+        "center": [
+            -4.357398141529671,
+            34.1829878484632,
+            12.547533952823443
+        ]
+    },
+    "109": {
+        "label": "Vermis_1_2",
+        "size": "52",
+        "center": [
+            1.5094339622641542,
+            -40.11320754716981,
+            -21.358490566037737
+        ]
+    },
+    "101": {
+        "label": "Cerebelum_7b_L",
+        "size": "584",
+        "center": [
+            -31.58561643835617,
+            -61.078767123287676,
+            -46.763698630136986
+        ]
+    },
+    "88": {
+        "label": "Temporal_Pole_Mid_R",
+        "size": "1186",
+        "center": [
+            43.981418918918905,
+            13.275337837837839,
+            -33.554054054054056
+        ]
+    },
+    "111": {
+        "label": "Vermis_4_5",
+        "size": "664",
+        "center": [
+            1.834586466165419,
+            -53.59398496240601,
+            -7.401503759398494
+        ]
+    },
+    "9": {
+        "label": "Frontal_Mid_Orb_L",
+        "size": "887",
+        "center": [
+            -30.885135135135137,
+            49.1418918918919,
+            -10.986486486486484
+        ]
+    },
+    "113": {
+        "label": "Vermis_7",
+        "size": "193",
+        "center": [
+            1.865979381443296,
+            -73.19587628865979,
+            -26.350515463917525
+        ]
+    },
+    "70": {
+        "label": "Paracentral_Lobule_R",
+        "size": "835",
+        "center": [
+            7.126794258373209,
+            -32.942583732057415,
+            66.79186602870814
+        ]
+    },
+    "100": {
+        "label": "Cerebelum_6_R",
+        "size": "1794",
+        "center": [
+            25.429526462395543,
+            -59.53760445682451,
+            -24.940389972144843
+        ]
+    },
+    "22": {
+        "label": "Olfactory_R",
+        "size": "288",
+        "center": [
+            10.124567474048447,
+            14.664359861591691,
+            -12.560553633217992
+        ]
+    },
+    "43": {
+        "label": "Calcarine_L",
+        "size": "2257",
+        "center": [
+            -7.482728077945083,
+            -79.82108060230293,
+            5.103631532329501
+        ]
+    },
+    "116": {
+        "label": "Vermis_10",
+        "size": "111",
+        "center": [
+            1.1428571428571388,
+            -47.125,
+            -32.875
+        ]
+    },
+    "0": {
+        "label": "empty",
+        "size": "717223",
+        "center": null
     },
     "4": {
         "label": "Frontal_Sup_R",
         "size": "4055"
     },
-    "40": {
-        "label": "ParaHippocampal_R",
-        "size": "1131"
-    },
-    "41": {
-        "label": "Amygdala_L",
-        "size": "219"
-    },
-    "42": {
-        "label": "Amygdala_R",
-        "size": "247"
-    },
-    "43": {
-        "label": "Calcarine_L",
-        "size": "2257"
-    },
-    "44": {
-        "label": "Calcarine_R",
-        "size": "1860"
-    },
-    "45": {
-        "label": "Cuneus_L",
-        "size": "1525"
-    },
-    "46": {
-        "label": "Cuneus_R",
-        "size": "1423"
-    },
-    "47": {
-        "label": "Lingual_L",
-        "size": "2094"
-    },
-    "48": {
-        "label": "Lingual_R",
-        "size": "2299"
-    },
-    "49": {
-        "label": "Occipital_Sup_L",
-        "size": "1365"
-    },
-    "5": {
-        "label": "Frontal_Sup_Orb_L",
-        "size": "962"
-    },
-    "50": {
-        "label": "Occipital_Sup_R",
-        "size": "1412"
-    },
-    "51": {
-        "label": "Occipital_Mid_L",
-        "size": "3269"
-    },
-    "52": {
-        "label": "Occipital_Mid_R",
-        "size": "2097"
-    },
-    "53": {
-        "label": "Occipital_Inf_L",
-        "size": "940"
-    },
-    "54": {
-        "label": "Occipital_Inf_R",
-        "size": "988"
-    },
-    "55": {
-        "label": "Fusiform_L",
-        "size": "2309"
-    },
-    "56": {
-        "label": "Fusiform_R",
-        "size": "2517"
-    },
-    "57": {
-        "label": "Postcentral_L",
-        "size": "3891"
-    },
-    "58": {
-        "label": "Postcentral_R",
-        "size": "3822"
-    },
-    "59": {
-        "label": "Parietal_Sup_L",
-        "size": "2064"
-    },
-    "6": {
-        "label": "Frontal_Sup_Orb_R",
-        "size": "996"
-    },
-    "60": {
-        "label": "Parietal_Sup_R",
-        "size": "2221"
-    },
-    "61": {
-        "label": "Parietal_Inf_L",
-        "size": "2446"
-    },
-    "62": {
-        "label": "Parietal_Inf_R",
-        "size": "1344"
-    },
-    "63": {
-        "label": "SupraMarginal_L",
-        "size": "1255"
-    },
-    "64": {
-        "label": "SupraMarginal_R",
-        "size": "1973"
-    },
-    "65": {
-        "label": "Angular_L",
-        "size": "1172"
-    },
-    "66": {
-        "label": "Angular_R",
-        "size": "1751"
-    },
     "67": {
         "label": "Precuneus_L",
         "size": "3527"
     },
-    "68": {
-        "label": "Precuneus_R",
-        "size": "3264"
+    "16": {
+        "label": "Frontal_Inf_Orb_R",
+        "size": "1706"
     },
-    "69": {
-        "label": "Paracentral_Lobule_L",
-        "size": "1348"
+    "12": {
+        "label": "Frontal_Inf_Oper_R",
+        "size": "1398"
     },
-    "7": {
-        "label": "Frontal_Mid_L",
-        "size": "4862"
+    "37": {
+        "label": "Hippocampus_L",
+        "size": "931"
     },
-    "70": {
-        "label": "Paracentral_Lobule_R",
-        "size": "835"
+    "11": {
+        "label": "Frontal_Inf_Oper_L",
+        "size": "1037"
     },
-    "71": {
-        "label": "Caudate_L",
-        "size": "961"
-    },
-    "72": {
-        "label": "Caudate_R",
-        "size": "993"
-    },
-    "73": {
-        "label": "Putamen_L",
-        "size": "1008"
-    },
-    "74": {
-        "label": "Putamen_R",
-        "size": "1063"
-    },
-    "75": {
-        "label": "Pallidum_L",
-        "size": "292"
-    },
-    "76": {
-        "label": "Pallidum_R",
-        "size": "279"
-    },
-    "77": {
-        "label": "Thalamus_L",
-        "size": "1099"
-    },
-    "78": {
-        "label": "Thalamus_R",
-        "size": "1056"
-    },
-    "79": {
-        "label": "Heschl_L",
-        "size": "224"
-    },
-    "8": {
-        "label": "Frontal_Mid_R",
-        "size": "5103"
-    },
-    "80": {
-        "label": "Heschl_R",
-        "size": "248"
-    },
-    "81": {
-        "label": "Temporal_Sup_L",
-        "size": "2295"
-    },
-    "82": {
-        "label": "Temporal_Sup_R",
-        "size": "3140"
-    },
-    "83": {
-        "label": "Temporal_Pole_Sup_L",
-        "size": "1284"
-    },
-    "84": {
-        "label": "Temporal_Pole_Sup_R",
-        "size": "1337"
-    },
-    "85": {
-        "label": "Temporal_Mid_L",
-        "size": "4941"
-    },
-    "86": {
-        "label": "Temporal_Mid_R",
-        "size": "4408"
-    },
-    "87": {
-        "label": "Temporal_Pole_Mid_L",
-        "size": "754"
-    },
-    "88": {
-        "label": "Temporal_Pole_Mid_R",
-        "size": "1186"
-    },
-    "89": {
-        "label": "Temporal_Inf_L",
-        "size": "3199"
-    },
-    "9": {
-        "label": "Frontal_Mid_Orb_L",
-        "size": "887"
-    },
-    "90": {
-        "label": "Temporal_Inf_R",
-        "size": "3556"
-    },
-    "91": {
-        "label": "Cerebelum_Crus1_L",
-        "size": "2602"
-    },
-    "92": {
-        "label": "Cerebelum_Crus1_R",
-        "size": "2647"
-    },
-    "93": {
-        "label": "Cerebelum_Crus2_L",
-        "size": "1893"
-    },
-    "94": {
-        "label": "Cerebelum_Crus2_R",
-        "size": "2116"
-    },
-    "95": {
-        "label": "Cerebelum_3_L",
-        "size": "135"
+    "19": {
+        "label": "Supp_Motor_Area_L",
+        "size": "2146"
     },
     "96": {
         "label": "Cerebelum_3_R",
         "size": "206"
     },
+    "36": {
+        "label": "Cingulum_Post_R",
+        "size": "334"
+    },
+    "13": {
+        "label": "Frontal_Inf_Tri_L",
+        "size": "2528"
+    },
+    "80": {
+        "label": "Heschl_R",
+        "size": "248"
+    },
+    "28": {
+        "label": "Rectus_R",
+        "size": "744"
+    },
+    "52": {
+        "label": "Occipital_Mid_R",
+        "size": "2097"
+    },
+    "103": {
+        "label": "Cerebelum_8_L",
+        "size": "1886"
+    },
+    "59": {
+        "label": "Parietal_Sup_L",
+        "size": "2064"
+    },
+    "33": {
+        "label": "Cingulum_Mid_L",
+        "size": "1940"
+    },
+    "85": {
+        "label": "Temporal_Mid_L",
+        "size": "4941"
+    },
+    "53": {
+        "label": "Occipital_Inf_L",
+        "size": "940"
+    },
+    "17": {
+        "label": "Rolandic_Oper_L",
+        "size": "989"
+    },
+    "79": {
+        "label": "Heschl_L",
+        "size": "224"
+    },
+    "105": {
+        "label": "Cerebelum_9_L",
+        "size": "868"
+    },
+    "40": {
+        "label": "ParaHippocampal_R",
+        "size": "1131"
+    },
+    "6": {
+        "label": "Frontal_Sup_Orb_R",
+        "size": "996"
+    },
+    "32": {
+        "label": "Cingulum_Ant_R",
+        "size": "1312"
+    },
+    "24": {
+        "label": "Frontal_Sup_Medial_R",
+        "size": "2133"
+    },
+    "35": {
+        "label": "Cingulum_Post_L",
+        "size": "462"
+    },
+    "92": {
+        "label": "Cerebelum_Crus1_R",
+        "size": "2647"
+    },
+    "73": {
+        "label": "Putamen_L",
+        "size": "1008"
+    },
+    "115": {
+        "label": "Vermis_9",
+        "size": "173"
+    },
+    "7": {
+        "label": "Frontal_Mid_L",
+        "size": "4862"
+    },
+    "110": {
+        "label": "Vermis_3",
+        "size": "227"
+    },
+    "86": {
+        "label": "Temporal_Mid_R",
+        "size": "4408"
+    },
+    "95": {
+        "label": "Cerebelum_3_L",
+        "size": "135"
+    },
+    "61": {
+        "label": "Parietal_Inf_L",
+        "size": "2446"
+    },
+    "47": {
+        "label": "Lingual_L",
+        "size": "2094"
+    },
+    "89": {
+        "label": "Temporal_Inf_L",
+        "size": "3199"
+    },
+    "60": {
+        "label": "Parietal_Sup_R",
+        "size": "2221"
+    },
+    "23": {
+        "label": "Frontal_Sup_Medial_L",
+        "size": "2991"
+    },
+    "65": {
+        "label": "Angular_L",
+        "size": "1172"
+    },
+    "81": {
+        "label": "Temporal_Sup_L",
+        "size": "2295"
+    },
+    "49": {
+        "label": "Occipital_Sup_L",
+        "size": "1365"
+    },
+    "48": {
+        "label": "Lingual_R",
+        "size": "2299"
+    },
+    "1": {
+        "label": "Precentral_L",
+        "size": "3525"
+    },
+    "57": {
+        "label": "Postcentral_L",
+        "size": "3891"
+    },
+    "78": {
+        "label": "Thalamus_R",
+        "size": "1056"
+    },
+    "8": {
+        "label": "Frontal_Mid_R",
+        "size": "5103"
+    },
+    "75": {
+        "label": "Pallidum_L",
+        "size": "292"
+    },
+    "104": {
+        "label": "Cerebelum_8_R",
+        "size": "2307"
+    },
     "97": {
         "label": "Cerebelum_4_5_L",
         "size": "1124"
     },
-    "98": {
-        "label": "Cerebelum_4_5_R",
-        "size": "860"
-    },
-    "99": {
-        "label": "Cerebelum_6_L",
-        "size": "1693"
+    "63": {
+        "label": "SupraMarginal_L",
+        "size": "1255"
     }
 }
